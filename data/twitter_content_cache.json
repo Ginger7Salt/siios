@@ -1,161 +1,160 @@
 {
   "metadata": {
-    "last_updated": "2026-11-15T13:35:35.201984",
-    "total_items": 59
+    "last_updated": "2026-11-15T19:36:04.175086",
+    "total_items": 58
   },
   "content": {
     "tech": [
       {
+        "title": "All AI-generated code should be Open Source",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "source": "Hacker News",
+        "score": 806
+      },
+      {
+        "title": "A short explainer on how El Niño works [video]",
+        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+        "source": "Hacker News",
+        "score": 40
+      },
+      {
+        "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+        "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+        "source": "Hacker News",
+        "score": 292
+      },
+      {
+        "title": "Emacs Is My Browser",
+        "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+        "source": "Hacker News",
+        "score": 107
+      },
+      {
+        "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+        "url": "https://prog21.dadgum.com/116.html",
+        "source": "Hacker News",
+        "score": 137
+      },
+      {
+        "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+        "source": "Hacker News",
+        "score": 33
+      },
+      {
+        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+        "source": "Hacker News",
+        "score": 172
+      },
+      {
         "title": "SpaceX catches the Starship to end Flight 15",
         "url": "https://www.spacex.com/launches/starship-flight-15",
         "source": "Hacker News",
-        "score": 1359
+        "score": 1553
       },
       {
-        "title": "Why did some Apollo missions carry a grenade launcher?",
-        "url": "https://space.stackexchange.com/questions/37775",
+        "title": "Eclipse Mosquitto – An open source MQTT broker",
+        "url": "https://github.com/eclipse-mosquitto/mosquitto",
         "source": "Hacker News",
-        "score": 86
+        "score": 9
       },
       {
-        "title": "Lovable apps expose passport details and more than 200K private messages",
-        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
         "source": "Hacker News",
-        "score": 882
+        "score": 147
+      },
+      {
+        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+        "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+        "source": "Hacker News",
+        "score": 46
+      },
+      {
+        "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+        "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+        "source": "Hacker News",
+        "score": 29
+      },
+      {
+        "title": "Eval Awareness vs. Eval Paranoia",
+        "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+        "source": "Hacker News",
+        "score": 12
       },
       {
         "title": "Court denies motion to dismiss DRAM price fixing case",
         "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
         "source": "Hacker News",
-        "score": 272
+        "score": 433
       },
       {
-        "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-        "url": "https://tsoracle.rs/",
+        "title": "Why did some Apollo missions carry a grenade launcher?",
+        "url": "https://space.stackexchange.com/questions/37775",
         "source": "Hacker News",
-        "score": 18
-      },
-      {
-        "title": "What thousands of conversations look like inside a language model",
-        "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-        "source": "Hacker News",
-        "score": 13
-      },
-      {
-        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-        "url": "https://retrocomputing.stackexchange.com/questions/17957",
-        "source": "Hacker News",
-        "score": 245
-      },
-      {
-        "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-        "source": "Hacker News",
-        "score": 34
-      },
-      {
-        "title": "My favourite modern NES games",
-        "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-        "source": "Hacker News",
-        "score": 129
-      },
-      {
-        "title": "Disk encryption on NetBSD – achieving secrecy",
-        "url": "https://netbsd.org/~nia/disk-encrypt/",
-        "source": "Hacker News",
-        "score": 58
-      },
-      {
-        "title": "KDE: The documentary [video]",
-        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "source": "Hacker News",
-        "score": 517
-      },
-      {
-        "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-        "url": "https://www.niklasroy.com/carton-clock/",
-        "source": "Hacker News",
-        "score": 16
-      },
-      {
-        "title": "A family tree of software job titles",
-        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-        "source": "Hacker News",
-        "score": 356
-      },
-      {
-        "title": "Book list for streetfighting computer scientists",
-        "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-        "source": "Hacker News",
-        "score": 52
-      },
-      {
-        "title": "Semicircle Packing",
-        "url": "https://rorz.io/writing/semicircle-packing",
-        "source": "Hacker News",
-        "score": 49
+        "score": 183
       }
     ],
     "ai": [
       {
+        "title": "All AI-generated code should be Open Source",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "source": "Hacker News AI",
+        "score": 806
+      },
+      {
+        "title": "A short explainer on how El Niño works [video]",
+        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+        "source": "Hacker News AI",
+        "score": 40
+      },
+      {
+        "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+        "source": "Hacker News AI",
+        "score": 33
+      },
+      {
+        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+        "source": "Hacker News AI",
+        "score": 172
+      },
+      {
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "source": "Hacker News AI",
+        "score": 147
+      },
+      {
+        "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "url": "https://github.com/db-branch/db-branch",
+        "source": "Hacker News AI",
+        "score": 21
+      },
+      {
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "url": "https://www.crissyfield.de/research/lovable-en/",
         "source": "Hacker News AI",
-        "score": 882
-      },
-      {
-        "title": "Kiri – The Modern Container Runtime",
-        "url": "https://runkiri.com/",
-        "source": "Hacker News AI",
-        "score": 69
-      },
-      {
-        "title": "Generative AI uses more energy on non-English text",
-        "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-        "source": "Hacker News AI",
-        "score": 222
-      },
-      {
-        "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-        "url": "https://bobbiec.github.io/jamaican-font.html",
-        "source": "Hacker News AI",
-        "score": 46
+        "score": 960
       },
       {
         "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
         "url": "https://unemploymentlabs.com/checkpoint-forensics",
         "source": "Hacker News AI",
-        "score": 404
-      },
-      {
-        "title": "Seagate's new hybrid drive raises some old questions",
-        "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-        "source": "Hacker News AI",
-        "score": 97
-      },
-      {
-        "title": "A visual explanation of reinforcement learning",
-        "url": "https://aatishb.com/myriad/how-brains-learn/",
-        "source": "Hacker News AI",
-        "score": 147
-      },
-      {
-        "title": "Tech companies are trying to shift the concept of privacy again",
-        "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-        "source": "Hacker News AI",
-        "score": 570
-      },
-      {
-        "title": "Show HN: Gawain – Require type hints on all Python variables",
-        "url": "https://github.com/matheuzgomes/gawain",
-        "source": "Hacker News AI",
-        "score": 60
+        "score": 419
       }
     ],
     "news": [
       {
-        "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision ",
-        "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Iran targets US military base in Bahrain with drone attack",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -164,32 +163,37 @@
         "source": "BBC World"
       },
       {
+        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
         "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
         "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-        "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-        "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+        "title": "Czechs rally against plan to switch funding of public media",
+        "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
     "art": [
+      {
+        "title": " With up to $300 off, these early MacBook Black Friday deals might be as good as they're going to get ",
+        "url": "https://www.creativebloq.com/deals/with-up-to-usd300-off-these-early-macbook-black-friday-deals-might-be-as-good-as-they-get",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " I trusted Adobe Firefly because it was the safe AI option, now I'm not so sure ",
+        "url": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+        "source": "Creative Bloq"
+      },
       {
         "title": " \"The Amiga was my first school\": why this pixel artist went back to the computer that made him ",
         "url": "https://www.creativebloq.com/features/klas-benjaminsson-on-making-a-pixel-art-poster-on-a-real-amiga-1200",
@@ -214,89 +218,79 @@
         "title": " There’s only one Black Friday iPad deal I’d consider so far ",
         "url": "https://www.creativebloq.com/deals/theres-only-one-black-friday-ipad-deal-id-consider-so-far",
         "source": "Creative Bloq"
-      },
-      {
-        "title": " How AdHoc made Dispatch feel like an animated TV series ",
-        "url": "https://www.creativebloq.com/features/how-adhoc-made-dispatch-feel-like-an-animated-tv-series",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " A simple logo redesign has become Australia's latest culture war – why that's bad news for designers ",
-        "url": "https://www.creativebloq.com/news/sydneys-logo-controversy-shows-how-politics-can-get-in-the-way-of-good-design",
-        "source": "Creative Bloq"
       }
     ],
     "science": [
+      {
+        "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "NASA warns this year's Monster El Niño could be even bigger than legendary 1997 event",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202227.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+        "source": "Science Daily"
+      },
       {
         "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
         "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
         "source": "Science Daily"
       },
       {
-        "title": "Scientists find a simple daily routine linked to less pain and depression",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+        "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
         "source": "Science Daily"
       },
       {
-        "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Dinosaurs may have been eating seaweed 100 million years ago",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Scientists discover a bizarre paradox among endangered penguins",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "AI discovers a hidden heart signal that could predict sudden death",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+        "title": "A simple supplement could help your immune system fight cancer and viral infections",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
         "source": "Science Daily"
       }
     ],
     "gaming": [
       {
-        "title": "7 Best Things About the Original Xbox That Aren't Halo, Ranked",
-        "url": "https://www.polygon.com/xbox-retrospective-best-things-besides-halo/",
+        "title": "Nintendo Switch 2 Is Finally Getting Capcom’s Fastest-Selling Game Ever",
+        "url": "https://www.polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date/",
         "source": "Polygon"
       },
       {
-        "title": "Stardew Valley Meets Night in the Woods in One of 2026's Scariest New Games",
-        "url": "https://www.polygon.com/village-in-the-shade-new-farm-sim-horror-game/",
+        "title": "GTA 6 Trophy Count and Full Completion Time Leaks in New Reports",
+        "url": "https://www.polygon.com/gta-6-platinum-trophy-mythic-achievement-time-to-get/",
         "source": "Polygon"
       },
       {
-        "title": "15 Years Later, Jamie Lannister’s Best Game of Thrones Quote Is an All-Time Fantasy Hit",
-        "url": "https://www.polygon.com/jamie-lannisters-best-game-of-thrones-quote-is-an-all-time-fantasy-hit/",
+        "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
+        "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
         "source": "Polygon"
       },
       {
-        "title": "7 Decades Later, the Most Satisfying Movie of All Time Is Free on YouTube",
-        "url": "https://www.polygon.com/12-angry-men-free-youtube/",
+        "title": "8 Must-Play Open-World RPGs for People With Real-Life Schedules",
+        "url": "https://www.polygon.com/open-world-rpgs-real-life-schedules/",
         "source": "Polygon"
       },
       {
-        "title": "25 Funniest 'Peanuts' Comics from the 1960s That Prove Charles M. Schulz Is Unbeatable",
-        "url": "https://www.polygon.com/funniest-peanuts-comics-1960s/",
+        "title": "The 2026 GOTY Race Could Be a Disaster for Indie Games",
+        "url": "https://www.polygon.com/goty-2026-game-awards-indie-big-walk-ai/",
         "source": "Polygon"
       },
       {
-        "title": "I Can't Wait to Ignore the Main Story of GTA 6",
-        "url": "https://www.polygon.com/gta-6-main-story-side-activities/",
+        "title": "Super Meat Boy Is Officially Getting Remade Without Edmund McMillen's Involvement",
+        "url": "https://www.polygon.com/super-meat-boy-again-announcement/",
         "source": "Polygon"
       },
       {
-        "title": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
-        "url": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode/",
+        "title": "‘Rings of Power’ Stars Break Down 2 Major Deaths in Prime Video’s Lord of the Rings Series",
+        "url": "https://www.polygon.com/rings-of-power-season-3-deaths-interview/",
         "source": "Polygon"
       }
     ],
