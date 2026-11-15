@@ -1,99 +1,99 @@
 {
   "metadata": {
-    "last_updated": "2026-11-14T23:42:28.918701",
+    "last_updated": "2026-11-15T05:17:54.973811",
     "total_items": 61
   },
   "content": {
     "tech": [
       {
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "url": "https://www.spacex.com/launches/starship-flight-15",
+        "source": "Hacker News",
+        "score": 942
+      },
+      {
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "url": "https://www.crissyfield.de/research/lovable-en/",
         "source": "Hacker News",
-        "score": 570
+        "score": 723
       },
       {
-        "title": "L3Harris Statement on the Nov. 13 Ground Stop",
-        "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+        "title": "Show HN: Gawain – Require type hints on all Python variables",
+        "url": "https://github.com/matheuzgomes/gawain",
         "source": "Hacker News",
-        "score": 21
-      },
-      {
-        "title": "SpaceX Catches the Starship to end Flight 15",
-        "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-        "source": "Hacker News",
-        "score": 475
-      },
-      {
-        "title": "A Family Tree of Software Job Titles",
-        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-        "source": "Hacker News",
-        "score": 175
+        "score": 11
       },
       {
         "title": "How did Woz write the Apple 1 BASIC before building the computer?",
         "url": "https://retrocomputing.stackexchange.com/questions/17957",
         "source": "Hacker News",
-        "score": 20
+        "score": 154
       },
       {
-        "title": "KDE: The documentary [video]",
-        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "title": "Kiri – The Modern Container Runtime",
+        "url": "https://runkiri.com/",
         "source": "Hacker News",
-        "score": 352
+        "score": 11
       },
       {
-        "title": "PyPI's redesigned project pages with clearer security signals are now live",
-        "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+        "title": "Osint Case Studies",
+        "url": "https://osintsearch.org/blog/osint-case-studies",
         "source": "Hacker News",
-        "score": 188
+        "score": 9
       },
       {
-        "title": "Possible Futures",
-        "url": "https://borretti.me/article/possible-futures",
+        "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
         "source": "Hacker News",
-        "score": 46
+        "score": 7
       },
       {
-        "title": "Why get an expensive Pi when I have an old phone?",
-        "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+        "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+        "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
         "source": "Hacker News",
-        "score": 482
+        "score": 142
       },
       {
-        "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-        "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+        "title": "The Evolving Story of How Chemistry Became Biology",
+        "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
         "source": "Hacker News",
-        "score": 71
+        "score": 16
       },
       {
-        "title": "Seagate's new hybrid drive raises some old questions",
-        "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+        "title": "A family tree of software job titles",
+        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
         "source": "Hacker News",
-        "score": 60
-      },
-      {
-        "title": "Advancing science and engineering with Antigravity's /teamwork",
-        "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-        "source": "Hacker News",
-        "score": 151
-      },
-      {
-        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "source": "Hacker News",
-        "score": 139
+        "score": 254
       },
       {
         "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
         "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
         "source": "Hacker News",
-        "score": 33
+        "score": 361
       },
       {
-        "title": "Reverse engineering a vintage diode-transistor logic chip",
-        "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+        "title": "500 Lines or Less A 3D Modeller",
+        "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
         "source": "Hacker News",
-        "score": 84
+        "score": 31
+      },
+      {
+        "title": "KDE: The documentary [video]",
+        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "source": "Hacker News",
+        "score": 420
+      },
+      {
+        "title": "PyPI's redesigned project pages with clearer security signals are now live",
+        "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+        "source": "Hacker News",
+        "score": 222
+      },
+      {
+        "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+        "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+        "source": "Hacker News",
+        "score": 9
       }
     ],
     "ai": [
@@ -101,78 +101,88 @@
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "url": "https://www.crissyfield.de/research/lovable-en/",
         "source": "Hacker News AI",
-        "score": 570
+        "score": 723
+      },
+      {
+        "title": "Show HN: Gawain – Require type hints on all Python variables",
+        "url": "https://github.com/matheuzgomes/gawain",
+        "source": "Hacker News AI",
+        "score": 11
+      },
+      {
+        "title": "Kiri – The Modern Container Runtime",
+        "url": "https://runkiri.com/",
+        "source": "Hacker News AI",
+        "score": 11
+      },
+      {
+        "title": "US loses measles-free status: Pan American Health Organization (2025)",
+        "url": "https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status",
+        "source": "Hacker News AI",
+        "score": 59
+      },
+      {
+        "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+        "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+        "source": "Hacker News AI",
+        "score": 41
       },
       {
         "title": "Seagate's new hybrid drive raises some old questions",
         "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
         "source": "Hacker News AI",
-        "score": 60
+        "score": 89
       },
       {
         "title": "Generative AI uses more energy on non-English text",
         "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
         "source": "Hacker News AI",
-        "score": 167
+        "score": 191
       },
       {
-        "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+        "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+        "url": "https://bobbiec.github.io/jamaican-font.html",
+        "source": "Hacker News AI",
+        "score": 18
+      },
+      {
+        "title": "Tech companies are trying to shift the concept of privacy again",
         "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
         "source": "Hacker News AI",
-        "score": 425
+        "score": 513
       },
       {
         "title": "A visual explanation of reinforcement learning",
         "url": "https://aatishb.com/myriad/how-brains-learn/",
         "source": "Hacker News AI",
-        "score": 110
+        "score": 134
       },
       {
-        "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+        "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+        "url": "https://unemploymentlabs.com/checkpoint-forensics",
         "source": "Hacker News AI",
-        "score": 125
-      },
-      {
-        "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-        "url": "https://github.com/0xdeadf1sh/T1DMAI",
-        "source": "Hacker News AI",
-        "score": 100
-      },
-      {
-        "title": "Silicon Valley claims to know the future. So why'd it get the midterms so wrong?",
-        "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-        "source": "Hacker News AI",
-        "score": 35
-      },
-      {
-        "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-        "source": "Hacker News AI",
-        "score": 43
-      },
-      {
-        "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-        "url": "https://atg.science/careers",
-        "source": "Hacker News AI",
-        "score": 1
-      },
-      {
-        "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-        "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-        "source": "Hacker News AI",
-        "score": 783
+        "score": 394
       }
     ],
     "news": [
+      {
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
       {
         "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
         "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+        "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -188,16 +198,6 @@
       {
         "title": "Philippines wins first Eurovision Song Contest Asia ",
         "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
@@ -240,75 +240,75 @@
     ],
     "science": [
       {
+        "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+        "source": "Science Daily"
+      },
+      {
         "title": "Scientists find a simple daily routine linked to less pain and depression",
         "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
         "source": "Science Daily"
       },
       {
-        "title": "Yale scientists reveal what really slows aging and what doesn't",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+        "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
         "source": "Science Daily"
       },
       {
-        "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
+        "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
         "source": "Science Daily"
       },
       {
-        "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+        "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
         "source": "Science Daily"
       },
       {
-        "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+        "title": "Scientists discover a bizarre paradox among endangered penguins",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
         "source": "Science Daily"
       },
       {
-        "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "A surprising brain difference may explain why some kids struggle with math",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
+        "title": "AI discovers a hidden heart signal that could predict sudden death",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
         "source": "Science Daily"
       }
     ],
     "gaming": [
       {
-        "title": "League of Legends: New Dawn Revealed, Major Overhaul Set for 2027",
-        "url": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
+        "title": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
+        "url": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode/",
         "source": "Polygon"
       },
       {
-        "title": "32 Years Later, Star Trek's Most Important Movie Is Officially Free on Streaming",
-        "url": "https://www.polygon.com/star-trek-generations-streaming-free-november-2026/",
+        "title": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
+        "url": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis/",
         "source": "Polygon"
       },
       {
-        "title": "Zelda: Ocarina of Time Is Actually the Perfect Way to Introduce Kids to Nintendo",
-        "url": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
+        "title": "Forget Ganon, Zelda: Ocarina of Time’s Most Overlooked Boss Finally Gets Its Due",
+        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova/",
         "source": "Polygon"
       },
       {
-        "title": "Fortnite Player Gets Screwed Out of Extremely Rare Pirate Shop Token",
-        "url": "https://www.polygon.com/fortnite-player-loses-pirate-shop-access-token-game-crash/",
+        "title": "9 Giant-Sized Changes Marvel Made to Ant-Man After Edgar Wright Left",
+        "url": "https://www.polygon.com/edgar-wright-ant-man-script-differences/",
         "source": "Polygon"
       },
       {
-        "title": "'The Body' Ending Explained: Is Grace Possessed? Netflix Showrunners Talk Season 2",
-        "url": "https://www.polygon.com/the-body-ending-explained/",
+        "title": "Stephen King’s Underrated 1980 Horror Thriller Gets New Prime Video Adaptation",
+        "url": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/",
         "source": "Polygon"
       },
       {
-        "title": "26 Years Later, Charlie Brown's Final Quote Is Still a Comic Strip Classic",
-        "url": "https://www.polygon.com/charlie-brown-final-peanuts-line/",
+        "title": "10 Must-Play Co-Op Games for People With Real-Life Schedules",
+        "url": "https://www.polygon.com/co-op-games-real-life-schedules/",
         "source": "Polygon"
       },
       {
-        "title": "Magic Is Bringing Back Its Most Controversial Creature Type",
-        "url": "https://www.polygon.com/magic-the-gathering-new-sliver-cards-tease/",
+        "title": "Nintendo Officially Reveals New Kirby Game for Switch 2",
+        "url": "https://www.polygon.com/kirby-world-beyond-nintendo-switch-2-2027/",
         "source": "Polygon"
       }
     ],
