@@ -1,173 +1,185 @@
 {
   "metadata": {
-    "last_updated": "2026-11-15T23:49:18.719038",
-    "total_items": 62
+    "last_updated": "2026-11-16T05:15:19.896979",
+    "total_items": 64
   },
   "content": {
     "tech": [
       {
-        "title": "Old Bitly Links Are Being Hijacked",
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "url": "https://iter.ca/post/ubo-uxss/",
+        "source": "Hacker News",
+        "score": 179
+      },
+      {
+        "title": "Qwen4-Max",
+        "url": "https://qwen.ai/blog?id=qwen4-max",
+        "source": "Hacker News",
+        "score": 249
+      },
+      {
+        "title": "Old Bitly links are being hijacked",
         "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
         "source": "Hacker News",
-        "score": 92
+        "score": 223
       },
       {
-        "title": "Preserving 30 Years of Salon Journalism",
+        "title": "What's Next for Nvidia?",
+        "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "source": "Hacker News",
+        "score": 152
+      },
+      {
+        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+        "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+        "source": "Hacker News",
+        "score": 87
+      },
+      {
+        "title": "Preserving 30 years of Salon journalism",
         "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
         "source": "Hacker News",
-        "score": 22
+        "score": 115
       },
       {
-        "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-        "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
+        "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+        "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
         "source": "Hacker News",
-        "score": 18
+        "score": 21
       },
       {
         "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
         "url": "https://bruceroettgers.eu/blog/protomaps/",
         "source": "Hacker News",
-        "score": 108
+        "score": 237
       },
       {
         "title": "A short explainer on how El Niño works [video]",
         "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
         "source": "Hacker News",
-        "score": 147
+        "score": 207
       },
       {
-        "title": "WebGL Flight Simulator with seed generated terrain",
-        "url": "https://baron.by.dai.studio/",
+        "title": "Do we still have to denormalize? Have your schema and search it too",
+        "url": "https://www.paradedb.com/blog/joins",
         "source": "Hacker News",
-        "score": 57
-      },
-      {
-        "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-        "source": "Hacker News",
-        "score": 139
+        "score": 43
       },
       {
         "title": "The MacBook Pro's OLED PWM problem",
         "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
         "source": "Hacker News",
-        "score": 394
+        "score": 443
       },
       {
         "title": "Handwriting, as a Font",
         "url": "https://ductus.sorenblank.com",
         "source": "Hacker News",
+        "score": 185
+      },
+      {
+        "title": "Crows make decisions faster than we can",
+        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+        "source": "Hacker News",
+        "score": 197
+      },
+      {
+        "title": "Coles hit by a cybersecurity incident",
+        "url": "https://www.colesgroup.com.au/updates/",
+        "source": "Hacker News",
         "score": 81
       },
       {
-        "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-        "url": "https://lastcomplication.com/",
+        "title": "Tell HN: HN is being scraped for emails to scam",
+        "url": "https://news.ycombinator.com/item?id=50513451",
         "source": "Hacker News",
-        "score": 7
-      },
-      {
-        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-        "source": "Hacker News",
-        "score": 304
-      },
-      {
-        "title": "Eclipse Mosquitto – An open source MQTT broker",
-        "url": "https://github.com/eclipse-mosquitto/mosquitto",
-        "source": "Hacker News",
-        "score": 56
-      },
-      {
-        "title": "Your Agent Will Pick the Hackable One",
-        "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
-        "source": "Hacker News",
-        "score": 66
-      },
-      {
-        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-        "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-        "source": "Hacker News",
-        "score": 321
-      },
-      {
-        "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-        "url": "https://prog21.dadgum.com/116.html",
-        "source": "Hacker News",
-        "score": 186
+        "score": 39
       }
     ],
     "ai": [
       {
-        "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-        "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
+        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+        "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
         "source": "Hacker News AI",
-        "score": 18
+        "score": 87
       },
       {
         "title": "A short explainer on how El Niño works [video]",
         "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
         "source": "Hacker News AI",
-        "score": 147
+        "score": 207
       },
       {
-        "title": "WebGL Flight Simulator with seed generated terrain",
-        "url": "https://baron.by.dai.studio/",
+        "title": "Tell HN: HN is being scraped for emails to scam",
+        "url": "https://news.ycombinator.com/item?id=50513451",
         "source": "Hacker News AI",
-        "score": 57
-      },
-      {
-        "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-        "source": "Hacker News AI",
-        "score": 139
+        "score": 39
       },
       {
         "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
         "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
         "source": "Hacker News AI",
-        "score": 304
+        "score": 381
       },
       {
-        "title": "Understanding Positional Embeddings in Modern LLMs",
-        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "title": "WebGL Flight Simulator with seed generated terrain",
+        "url": "https://baron.by.dai.studio/",
         "source": "Hacker News AI",
-        "score": 190
+        "score": 108
+      },
+      {
+        "title": "Artificial Intelligence for the Z80",
+        "url": "https://www.dfsantos.com/en/libro-ia-z80",
+        "source": "Hacker News AI",
+        "score": 11
+      },
+      {
+        "title": "Parcel: A desktop mail client for Linux, built with Zig",
+        "url": "https://tangled.org/rockorager.dev/parcel",
+        "source": "Hacker News AI",
+        "score": 12
       },
       {
         "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
         "source": "Hacker News AI",
-        "score": 86
-      },
-      {
-        "title": "Keylogger Detection and Containment [pdf]",
-        "url": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
-        "source": "Hacker News AI",
-        "score": 10
-      },
-      {
-        "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-        "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-        "source": "Hacker News AI",
-        "score": 43
+        "score": 143
       },
       {
         "title": "All AI-generated code should be Open Source",
         "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
         "source": "Hacker News AI",
-        "score": 1044
+        "score": 1120
       },
       {
-        "title": "Lovable apps expose passport details and more than 200K private messages",
-        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+        "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
         "source": "Hacker News AI",
-        "score": 972
+        "score": 82
       },
       {
-        "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-        "url": "https://github.com/db-branch/db-branch",
+        "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+        "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
         "source": "Hacker News AI",
-        "score": 29
+        "score": 6
+      },
+      {
+        "title": "Agentic AI Designs an Analog Synthesizer",
+        "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+        "source": "Hacker News AI",
+        "score": 11
+      },
+      {
+        "title": "Keylogger Detection and Containment [pdf]",
+        "url": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
+        "source": "Hacker News AI",
+        "score": 20
+      },
+      {
+        "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+        "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+        "source": "Hacker News AI",
+        "score": 5
       }
     ],
     "news": [
@@ -177,33 +189,33 @@
         "source": "BBC World"
       },
       {
+        "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
         "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
         "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+        "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+        "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-        "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+        "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+        "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
-        "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+        "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Czechs rally against plan to switch funding of public media",
-        "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Police ban protests near 10 schools and five universities in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+        "title": "Canada bars Russia from Junior World Championships",
+        "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
@@ -283,38 +295,38 @@
     ],
     "gaming": [
       {
-        "title": "Tom Cruise's Favorite Director's Breakout Action Thriller Is Officially Free to Stream",
-        "url": "https://www.polygon.com/way-of-gun-movie-streaming-free-november-2026/",
+        "title": "5 Funniest 'Peanuts' Comics About Dogs",
+        "url": "https://www.polygon.com/5-funniest-peanuts-comics-about-dogs/",
         "source": "Polygon"
       },
       {
-        "title": "Prime Video's Near-Perfect Game of Thrones Replacement Officially Arrives in 2 Months",
-        "url": "https://www.polygon.com/blood-axe-prime-video-episode-1-review/",
+        "title": "Netflix's Award-winning Dark Sci-fi Series is Officially Returning",
+        "url": "https://www.polygon.com/black-mirror-season-8-update-netflix/",
         "source": "Polygon"
       },
       {
-        "title": "Zelda: Ocarina of Time’s No. 1 cause of death officially revealed",
-        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-mobile-app-deaths/",
+        "title": "6 Upcoming Sci-Fi Movies, Ranked by Hype",
+        "url": "https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype/",
         "source": "Polygon"
       },
       {
-        "title": "17 Years Ago, the Longest Running Sci-Fi Show Flipped Its Core Concept On Its Head",
-        "url": "https://www.polygon.com/doctor-who-the-waters-of-mars-17th-anniversary-retrospective/",
+        "title": "Marvel's Official Avengers: Doomsday Prep Launches on Nov. 18",
+        "url": "https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars/",
         "source": "Polygon"
       },
       {
-        "title": "Nintendo Switch 2 Is Finally Getting Capcom’s Fastest-Selling Game Ever",
-        "url": "https://www.polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date/",
+        "title": "All 10 Zelda: Ocarina of Time Bosses, Ranked From Worst to Best",
+        "url": "https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6 Trophy Count and Full Completion Time Leaks in New Reports",
-        "url": "https://www.polygon.com/gta-6-platinum-trophy-mythic-achievement-time-to-get/",
+        "title": "David Tennant Officially Returns to Doctor Who in 2027",
+        "url": "https://www.polygon.com/doctor-who-david-tennant-returns-audio-drama-2027/",
         "source": "Polygon"
       },
       {
-        "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-        "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
+        "title": "Halo Defined a Generation of LAN Parties — Then It Killed Them",
+        "url": "https://www.polygon.com/halo-combat-evolve-lan-party-memories/",
         "source": "Polygon"
       }
     ],
