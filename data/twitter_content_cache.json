@@ -1,332 +1,308 @@
 {
   "metadata": {
-    "last_updated": "2026-11-16T05:15:19.896979",
-    "total_items": 64
+    "last_updated": "2026-11-16T15:03:40.013966",
+    "total_items": 60
   },
   "content": {
     "tech": [
       {
+        "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
+        "url": "https://jack.cab/blog/siterate",
+        "source": "Hacker News",
+        "score": 137
+      },
+      {
+        "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
+        "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+        "source": "Hacker News",
+        "score": 78
+      },
+      {
+        "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+        "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+        "source": "Hacker News",
+        "score": 119
+      },
+      {
+        "title": "How to make almost anything",
+        "url": "https://pub.cba.mit.edu/863.26/site/",
+        "source": "Hacker News",
+        "score": 531
+      },
+      {
         "title": "Universal XSS in uBlock Origin from website-driven element picker",
         "url": "https://iter.ca/post/ubo-uxss/",
         "source": "Hacker News",
-        "score": 179
+        "score": 495
+      },
+      {
+        "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
+        "url": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+        "source": "Hacker News",
+        "score": 25
+      },
+      {
+        "title": "Researchers track whole body movement with just a smartwatch",
+        "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+        "source": "Hacker News",
+        "score": 119
+      },
+      {
+        "title": "OOS – an open operating system for the Rigol Scopes",
+        "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+        "source": "Hacker News",
+        "score": 54
+      },
+      {
+        "title": "“…and the proof is checked in Lean”",
+        "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+        "source": "Hacker News",
+        "score": 118
       },
       {
         "title": "Qwen4-Max",
         "url": "https://qwen.ai/blog?id=qwen4-max",
         "source": "Hacker News",
-        "score": 249
+        "score": 702
       },
       {
-        "title": "Old Bitly links are being hijacked",
-        "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+        "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+        "url": "https://github.com/withcoral/coral",
         "source": "Hacker News",
-        "score": 223
+        "score": 24
       },
       {
         "title": "What's Next for Nvidia?",
         "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
         "source": "Hacker News",
-        "score": 152
+        "score": 359
       },
       {
-        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-        "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+        "title": "Coffeehouses and the Rise of Science [pdf]",
+        "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
         "source": "Hacker News",
-        "score": 87
+        "score": 116
       },
       {
-        "title": "Preserving 30 years of Salon journalism",
-        "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+        "title": "Old Bitly links are being hijacked",
+        "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
         "source": "Hacker News",
-        "score": 115
+        "score": 335
       },
       {
-        "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-        "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+        "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+        "url": "https://github.com/ages2001/WINUDF",
         "source": "Hacker News",
-        "score": 21
-      },
-      {
-        "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-        "url": "https://bruceroettgers.eu/blog/protomaps/",
-        "source": "Hacker News",
-        "score": 237
-      },
-      {
-        "title": "A short explainer on how El Niño works [video]",
-        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-        "source": "Hacker News",
-        "score": 207
-      },
-      {
-        "title": "Do we still have to denormalize? Have your schema and search it too",
-        "url": "https://www.paradedb.com/blog/joins",
-        "source": "Hacker News",
-        "score": 43
-      },
-      {
-        "title": "The MacBook Pro's OLED PWM problem",
-        "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-        "source": "Hacker News",
-        "score": 443
-      },
-      {
-        "title": "Handwriting, as a Font",
-        "url": "https://ductus.sorenblank.com",
-        "source": "Hacker News",
-        "score": 185
-      },
-      {
-        "title": "Crows make decisions faster than we can",
-        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-        "source": "Hacker News",
-        "score": 197
-      },
-      {
-        "title": "Coles hit by a cybersecurity incident",
-        "url": "https://www.colesgroup.com.au/updates/",
-        "source": "Hacker News",
-        "score": 81
-      },
-      {
-        "title": "Tell HN: HN is being scraped for emails to scam",
-        "url": "https://news.ycombinator.com/item?id=50513451",
-        "source": "Hacker News",
-        "score": 39
+        "score": 48
       }
     ],
     "ai": [
       {
+        "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
+        "url": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+        "source": "Hacker News AI",
+        "score": 25
+      },
+      {
         "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
         "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
         "source": "Hacker News AI",
-        "score": 87
+        "score": 201
       },
       {
         "title": "A short explainer on how El Niño works [video]",
         "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
         "source": "Hacker News AI",
-        "score": 207
-      },
-      {
-        "title": "Tell HN: HN is being scraped for emails to scam",
-        "url": "https://news.ycombinator.com/item?id=50513451",
-        "source": "Hacker News AI",
-        "score": 39
-      },
-      {
-        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-        "source": "Hacker News AI",
-        "score": 381
+        "score": 268
       },
       {
         "title": "WebGL Flight Simulator with seed generated terrain",
         "url": "https://baron.by.dai.studio/",
         "source": "Hacker News AI",
-        "score": 108
+        "score": 200
+      },
+      {
+        "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+        "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+        "source": "Hacker News AI",
+        "score": 15
       },
       {
         "title": "Artificial Intelligence for the Z80",
         "url": "https://www.dfsantos.com/en/libro-ia-z80",
         "source": "Hacker News AI",
-        "score": 11
+        "score": 71
+      },
+      {
+        "title": "Google: AI agent turned a security patch into a exploit with no human help",
+        "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+        "source": "Hacker News AI",
+        "score": 5
       },
       {
         "title": "Parcel: A desktop mail client for Linux, built with Zig",
         "url": "https://tangled.org/rockorager.dev/parcel",
         "source": "Hacker News AI",
-        "score": 12
+        "score": 54
       },
       {
-        "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
         "source": "Hacker News AI",
-        "score": 143
+        "score": 436
       },
       {
-        "title": "All AI-generated code should be Open Source",
-        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "title": "Doing Show HN generates a ton of automated email pitches",
+        "url": "https://petervandijck.com/post/pbrgs-ev0bc",
         "source": "Hacker News AI",
-        "score": 1120
-      },
-      {
-        "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-        "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-        "source": "Hacker News AI",
-        "score": 82
-      },
-      {
-        "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
-        "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
-        "source": "Hacker News AI",
-        "score": 6
-      },
-      {
-        "title": "Agentic AI Designs an Analog Synthesizer",
-        "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
-        "source": "Hacker News AI",
-        "score": 11
-      },
-      {
-        "title": "Keylogger Detection and Containment [pdf]",
-        "url": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
-        "source": "Hacker News AI",
-        "score": 20
-      },
-      {
-        "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
-        "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
-        "source": "Hacker News AI",
-        "score": 5
+        "score": 50
       }
     ],
     "news": [
       {
-        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+        "title": "Yemeni forces retreat to defend port city from Houthis",
         "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-        "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+        "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+        "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-        "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+        "title": "Man sentenced over 'horrific' attempted murder of three children",
+        "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+        "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
+        "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Canada bars Russia from Junior World Championships",
-        "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+        "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+        "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
     "art": [
       {
+        "title": " Motion North 2027 reveals speakers for two days of talks, workshops and more ",
+        "url": "https://www.creativebloq.com/news/motion-north-2027-reveals-speakers-for-two-days-of-talks-workshops-and-more",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " The first scene from the new Harry Potter series just dropped – and it's sparked a fierce filmmaking debate ",
+        "url": "https://www.creativebloq.com/news/the-first-scene-from-the-new-harry-potter-series-just-dropped-and-its-sparked-a-fierce-filmmaking-debate",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " I built a powerful new web design tool that focuses on craft, not automation – try a live demo now ",
+        "url": "https://www.creativebloq.com/inspiration/i-built-a-powerful-new-web-design-tool-that-focuses-on-craft-not-automation-try-a-live-demo-now",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " How Playstation nailed its iconic startup screen ",
+        "url": "https://www.creativebloq.com/news/how-playstation-nailed-its-iconic-startup-screen",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " Why Dispatch's creators said no to '10,000 endings' ",
+        "url": "https://www.creativebloq.com/features/why-dispatchs-creators-said-no-to-10-000-endings",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " This artist is building a world inspired by swashbuckling novels and his own city, Montpellier ",
+        "url": "https://www.creativebloq.com/features/this-artist-is-building-a-world-inspired-by-swashbuckling-novels-and-his-own-city-montpellier",
+        "source": "Creative Bloq"
+      },
+      {
         "title": " With up to $300 off, these early MacBook Black Friday deals might be as good as they're going to get ",
         "url": "https://www.creativebloq.com/deals/with-up-to-usd300-off-these-early-macbook-black-friday-deals-might-be-as-good-as-they-get",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " I trusted Adobe Firefly because it was the safe AI option, now I'm not so sure ",
-        "url": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " \"The Amiga was my first school\": why this pixel artist went back to the computer that made him ",
-        "url": "https://www.creativebloq.com/features/klas-benjaminsson-on-making-a-pixel-art-poster-on-a-real-amiga-1200",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " This artist specialises in emotion-filled ethereal visuals ",
-        "url": "https://www.creativebloq.com/features/this-artist-specialises-in-emotional-characters-and-ethereal-scenes",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " The Tesla Cybercab sounds like the ultimate subscription trap ",
-        "url": "https://www.creativebloq.com/news/the-tesla-cybercab-sounds-like-the-ultimate-subscription-trap",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " The stunning Star Wars Lego anniversary poster makes me finally get it ",
-        "url": "https://www.creativebloq.com/news/the-stunning-star-wars-lego-anniversary-poster-makes-me-finally-get-it",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " There’s only one Black Friday iPad deal I’d consider so far ",
-        "url": "https://www.creativebloq.com/deals/theres-only-one-black-friday-ipad-deal-id-consider-so-far",
         "source": "Creative Bloq"
       }
     ],
     "science": [
       {
-        "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+        "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
         "source": "Science Daily"
       },
       {
-        "title": "NASA warns this year's Monster El Niño could be even bigger than legendary 1997 event",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261114202227.htm",
+        "title": "New wearable ultrasound patch boosts REM sleep without drugs or surgery",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
         "source": "Science Daily"
       },
       {
-        "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+        "title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
         "source": "Science Daily"
       },
       {
-        "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+        "title": "Scientists discover that the heart doesn't age the way we thought",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
         "source": "Science Daily"
       },
       {
-        "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+        "title": "The secret to building Moon bases may be hiding in emergency blankets",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
         "source": "Science Daily"
       },
       {
-        "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+        "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
         "source": "Science Daily"
       },
       {
-        "title": "A simple supplement could help your immune system fight cancer and viral infections",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+        "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
         "source": "Science Daily"
       }
     ],
     "gaming": [
       {
-        "title": "5 Funniest 'Peanuts' Comics About Dogs",
-        "url": "https://www.polygon.com/5-funniest-peanuts-comics-about-dogs/",
+        "title": "Slow Horses officially moves beyond the books with 2 more seasons",
+        "url": "https://www.polygon.com/slow-horses-renewed-season-9-10/",
         "source": "Polygon"
       },
       {
-        "title": "Netflix's Award-winning Dark Sci-fi Series is Officially Returning",
-        "url": "https://www.polygon.com/black-mirror-season-8-update-netflix/",
+        "title": "D&D’s World of Warcraft Book Fixes the RPG’s Biggest Endgame Issue",
+        "url": "https://www.polygon.com/dnd-world-of-warcraft-dungeons-dragons-monsters-high-cr-design-bosses/",
         "source": "Polygon"
       },
       {
-        "title": "6 Upcoming Sci-Fi Movies, Ranked by Hype",
-        "url": "https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype/",
+        "title": "Johnny Depp Tops the Box Office Again With Ebenezer's Opening Weekend",
+        "url": "https://www.polygon.com/ebenezer-johnny-depp-box-office-opening-weekend/",
         "source": "Polygon"
       },
       {
-        "title": "Marvel's Official Avengers: Doomsday Prep Launches on Nov. 18",
-        "url": "https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars/",
+        "title": "Final Fantasy 7 Remake Director Confirms He Doesn’t Let Fans’ Reactions Shape His Games",
+        "url": "https://www.polygon.com/final-fantasy-7-director-naoki-hamaguchi/",
         "source": "Polygon"
       },
       {
-        "title": "All 10 Zelda: Ocarina of Time Bosses, Ranked From Worst to Best",
-        "url": "https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked/",
+        "title": "Xbox Head of Next Gen Finally Explains What Project Helix Is: ‘It Is Not a PC’",
+        "url": "https://www.polygon.com/xbox-project-helix-play-pc-games-library/",
         "source": "Polygon"
       },
       {
-        "title": "David Tennant Officially Returns to Doctor Who in 2027",
-        "url": "https://www.polygon.com/doctor-who-david-tennant-returns-audio-drama-2027/",
+        "title": "Controversial Call of Cthulhu Game Canceled After Designer's Child Abuse Conviction",
+        "url": "https://www.polygon.com/call-of-cthulhu-old-one-origins-canceled-designer-conviction/",
         "source": "Polygon"
       },
       {
-        "title": "Halo Defined a Generation of LAN Parties — Then It Killed Them",
-        "url": "https://www.polygon.com/halo-combat-evolve-lan-party-memories/",
+        "title": "All active Escape From Tarkov codes and rewards",
+        "url": "https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/",
         "source": "Polygon"
       }
     ],
