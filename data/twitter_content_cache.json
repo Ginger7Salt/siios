@@ -1,201 +1,204 @@
 {
   "metadata": {
-    "last_updated": "2026-11-16T15:03:40.013966",
-    "total_items": 60
+    "last_updated": "2026-11-17T00:00:27.435833",
+    "total_items": 58
   },
   "content": {
     "tech": [
       {
-        "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
-        "url": "https://jack.cab/blog/siterate",
+        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "url": "https://www.cs.cmu.edu/learn/",
         "source": "Hacker News",
-        "score": 137
+        "score": 452
       },
       {
-        "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
-        "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+        "title": "BugMeNot has closed",
+        "url": "https://www.bugmenot.com/",
         "source": "Hacker News",
-        "score": 78
+        "score": 228
       },
       {
-        "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-        "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
         "source": "Hacker News",
-        "score": 119
+        "score": 50
       },
       {
-        "title": "How to make almost anything",
-        "url": "https://pub.cba.mit.edu/863.26/site/",
+        "title": "How to Break into Security, Ptacek Edition (2012)",
+        "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
         "source": "Hacker News",
-        "score": 531
+        "score": 57
       },
       {
-        "title": "Universal XSS in uBlock Origin from website-driven element picker",
-        "url": "https://iter.ca/post/ubo-uxss/",
+        "title": "World's Largest Brands Infected With Malware Via Optimizely",
+        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
         "source": "Hacker News",
-        "score": 495
+        "score": 98
       },
       {
-        "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
-        "url": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+        "title": "OpenCode Browse",
+        "url": "https://opencode.ai/product/browse",
         "source": "Hacker News",
-        "score": 25
+        "score": 69
       },
       {
-        "title": "Researchers track whole body movement with just a smartwatch",
-        "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+        "title": "Grazing sheep in fields with solar arrays",
+        "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
         "source": "Hacker News",
-        "score": 119
+        "score": 196
       },
       {
-        "title": "OOS – an open operating system for the Rigol Scopes",
-        "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+        "title": "Jiff 1.0: A datetime library for Rust",
+        "url": "https://burntsushi.net/jiff/",
         "source": "Hacker News",
-        "score": 54
+        "score": 284
       },
       {
-        "title": "“…and the proof is checked in Lean”",
-        "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+        "title": "Rust changed me as a developer",
+        "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
         "source": "Hacker News",
-        "score": 118
+        "score": 157
       },
       {
-        "title": "Qwen4-Max",
-        "url": "https://qwen.ai/blog?id=qwen4-max",
+        "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+        "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
         "source": "Hacker News",
-        "score": 702
+        "score": 689
       },
       {
-        "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
-        "url": "https://github.com/withcoral/coral",
+        "title": "Frame – 31.5\" color ePaper display",
+        "url": "https://trmnl.com/blog/introducing-frame",
         "source": "Hacker News",
-        "score": 24
+        "score": 269
       },
       {
-        "title": "What's Next for Nvidia?",
-        "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "title": "Chemistry is Actually Geometry",
+        "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
         "source": "Hacker News",
-        "score": 359
+        "score": 64
       },
       {
-        "title": "Coffeehouses and the Rise of Science [pdf]",
-        "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+        "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
         "source": "Hacker News",
-        "score": 116
+        "score": 29
       },
       {
-        "title": "Old Bitly links are being hijacked",
-        "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+        "title": "United Airlines experiencing a widespread system outage, airline says",
+        "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
         "source": "Hacker News",
-        "score": 335
+        "score": 133
       },
       {
-        "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
-        "url": "https://github.com/ages2001/WINUDF",
+        "title": "Squircles",
+        "url": "https://linebender.org/wiki/curves/squircle/",
         "source": "Hacker News",
-        "score": 48
+        "score": 109
       }
     ],
     "ai": [
       {
-        "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
-        "url": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+        "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+        "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
         "source": "Hacker News AI",
-        "score": 25
+        "score": 689
       },
       {
-        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-        "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+        "title": "United Airlines experiencing a widespread system outage, airline says",
+        "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
         "source": "Hacker News AI",
-        "score": 201
-      },
-      {
-        "title": "A short explainer on how El Niño works [video]",
-        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-        "source": "Hacker News AI",
-        "score": 268
-      },
-      {
-        "title": "WebGL Flight Simulator with seed generated terrain",
-        "url": "https://baron.by.dai.studio/",
-        "source": "Hacker News AI",
-        "score": 200
+        "score": 133
       },
       {
         "title": "Microsoft blames monster email outage on software defect introduced in July fix",
         "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
         "source": "Hacker News AI",
-        "score": 15
+        "score": 193
       },
       {
-        "title": "Artificial Intelligence for the Z80",
-        "url": "https://www.dfsantos.com/en/libro-ia-z80",
+        "title": "Spamhaus new email sender requirements in November",
+        "url": "https://www.spamhaus.org/sender-guidelines/",
         "source": "Hacker News AI",
-        "score": 71
+        "score": 56
       },
       {
-        "title": "Google: AI agent turned a security patch into a exploit with no human help",
-        "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+        "title": "Strengthening the fight against online child sexual abuse",
+        "url": "https://openai.com/index/strengthening-online-child-safety/",
+        "source": "Hacker News AI",
+        "score": 98
+      },
+      {
+        "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
+        "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
         "source": "Hacker News AI",
         "score": 5
       },
       {
-        "title": "Parcel: A desktop mail client for Linux, built with Zig",
-        "url": "https://tangled.org/rockorager.dev/parcel",
+        "title": "First phase of embedded assessments at OpenAI",
+        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
         "source": "Hacker News AI",
-        "score": 54
+        "score": 36
       },
       {
-        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+        "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+        "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
         "source": "Hacker News AI",
-        "score": 436
-      },
-      {
-        "title": "Doing Show HN generates a ton of automated email pitches",
-        "url": "https://petervandijck.com/post/pbrgs-ev0bc",
-        "source": "Hacker News AI",
-        "score": 50
+        "score": 282
       }
     ],
     "news": [
       {
-        "title": "Yemeni forces retreat to defend port city from Houthis",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+        "title": "Five EU countries announce migrant deportation centre in Rwanda",
         "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Man sentenced over 'horrific' attempted murder of three children",
-        "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
+        "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+        "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
-        "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+        "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+        "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-        "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+        "title": "When will we see Robert Pattinson as Bond in cinemas?",
+        "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+        "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+        "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
     "art": [
+      {
+        "title": " Robert Pattinson as James Bond says a lot about Amazon's plans for 007 ",
+        "url": "https://www.creativebloq.com/news/robert-pattinson-as-james-bond-says-a-lot-about-amazons-plans-for-007",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " This clever art frame makes your images look like real prints – and today you save £77 ",
+        "url": "https://www.creativebloq.com/deals/this-clever-art-frame-makes-your-images-look-like-real-prints-and-today-you-save-gbp77",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " The huge CyberLink Black Friday sale is a fantastic chance to get into video editing ",
+        "url": "https://www.creativebloq.com/news/the-huge-cyberlink-black-friday-sale-is-a-fantastic-chance-to-get-into-video-editing",
+        "source": "Creative Bloq"
+      },
       {
         "title": " Motion North 2027 reveals speakers for two days of talks, workshops and more ",
         "url": "https://www.creativebloq.com/news/motion-north-2027-reveals-speakers-for-two-days-of-talks-workshops-and-more",
@@ -214,21 +217,6 @@
       {
         "title": " How Playstation nailed its iconic startup screen ",
         "url": "https://www.creativebloq.com/news/how-playstation-nailed-its-iconic-startup-screen",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " Why Dispatch's creators said no to '10,000 endings' ",
-        "url": "https://www.creativebloq.com/features/why-dispatchs-creators-said-no-to-10-000-endings",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " This artist is building a world inspired by swashbuckling novels and his own city, Montpellier ",
-        "url": "https://www.creativebloq.com/features/this-artist-is-building-a-world-inspired-by-swashbuckling-novels-and-his-own-city-montpellier",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " With up to $300 off, these early MacBook Black Friday deals might be as good as they're going to get ",
-        "url": "https://www.creativebloq.com/deals/with-up-to-usd300-off-these-early-macbook-black-friday-deals-might-be-as-good-as-they-get",
         "source": "Creative Bloq"
       }
     ],
@@ -271,38 +259,38 @@
     ],
     "gaming": [
       {
-        "title": "Slow Horses officially moves beyond the books with 2 more seasons",
-        "url": "https://www.polygon.com/slow-horses-renewed-season-9-10/",
+        "title": "'Avengers: Doomsday' Star Says He Was Lied to About His Next Big Role",
+        "url": "https://www.polygon.com/anthony-mackie-jamie-dornan-interview-12-12-12/",
         "source": "Polygon"
       },
       {
-        "title": "D&D’s World of Warcraft Book Fixes the RPG’s Biggest Endgame Issue",
-        "url": "https://www.polygon.com/dnd-world-of-warcraft-dungeons-dragons-monsters-high-cr-design-bosses/",
+        "title": "How 2026's Best Video Games Were Made",
+        "url": "https://www.polygon.com/2026-games-of-the-year-how-were-made/",
         "source": "Polygon"
       },
       {
-        "title": "Johnny Depp Tops the Box Office Again With Ebenezer's Opening Weekend",
-        "url": "https://www.polygon.com/ebenezer-johnny-depp-box-office-opening-weekend/",
+        "title": "Anne Hathaway's 100-Minute Sci-Fi Thriller Takes Over Streaming After HBO Max Debut",
+        "url": "https://www.polygon.com/end-of-oak-street-streaming-hbo-max-november-2026/",
         "source": "Polygon"
       },
       {
-        "title": "Final Fantasy 7 Remake Director Confirms He Doesn’t Let Fans’ Reactions Shape His Games",
-        "url": "https://www.polygon.com/final-fantasy-7-director-naoki-hamaguchi/",
+        "title": "Netflix Officially Confirms 3 Body Problem Returns in 2027",
+        "url": "https://www.polygon.com/netflix-3-body-problem-season-2-release-date-2027/",
         "source": "Polygon"
       },
       {
-        "title": "Xbox Head of Next Gen Finally Explains What Project Helix Is: ‘It Is Not a PC’",
-        "url": "https://www.polygon.com/xbox-project-helix-play-pc-games-library/",
+        "title": "Star Wars: Galactic Racer Officially Getting the Feature Every Racing Game Needs",
+        "url": "https://www.polygon.com/star-wars-galactic-racer-local-split-screen-multiplayer-update/",
         "source": "Polygon"
       },
       {
-        "title": "Controversial Call of Cthulhu Game Canceled After Designer's Child Abuse Conviction",
-        "url": "https://www.polygon.com/call-of-cthulhu-old-one-origins-canceled-designer-conviction/",
+        "title": "What Makes The Legend of Zelda: Ocarina of Time So Great Anyway?",
+        "url": "https://www.polygon.com/zelda-ocarina-of-time-why-best-game-ever/",
         "source": "Polygon"
       },
       {
-        "title": "All active Escape From Tarkov codes and rewards",
-        "url": "https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/",
+        "title": "The Odyssey's Most Disturbing Scene Barely Used Any CGI. Here's How They Pulled It Off.",
+        "url": "https://www.polygon.com/the-odyssey-pig-transformation-practical-effects/",
         "source": "Polygon"
       }
     ],
