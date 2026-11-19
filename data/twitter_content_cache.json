@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T00:58:48.628069",
-    "total_items": 62
+    "last_updated": "2026-11-19T08:37:44.662148",
+    "total_items": 54
   },
   "content": {
     "tech": [
@@ -9,91 +9,91 @@
         "title": "Gemini 4 Neon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "source": "Hacker News",
-        "score": 396
-      },
-      {
-        "title": "Software companies are trying to kill home computing?",
-        "url": "https://lateblt.livejournal.com/526188.html",
-        "source": "Hacker News",
-        "score": 77
+        "score": 773
       },
       {
         "title": "Unauthenticated remote code execution in Nginx",
         "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
         "source": "Hacker News",
-        "score": 1112
+        "score": 1341
+      },
+      {
+        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+        "url": "https://verialabs.com/ruby2shell/",
+        "source": "Hacker News",
+        "score": 33
+      },
+      {
+        "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+        "url": "https://kapteko.com/15-million-webservers/",
+        "source": "Hacker News",
+        "score": 75
       },
       {
         "title": "Multiple vulnerabilities in Regexp and String case conversion",
         "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
         "source": "Hacker News",
-        "score": 35
-      },
-      {
-        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-        "source": "Hacker News",
-        "score": 12
+        "score": 229
       },
       {
         "title": "Seven new models at scalable price-performance",
         "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
         "source": "Hacker News",
-        "score": 440
+        "score": 531
+      },
+      {
+        "title": "Anthropic prices initial public offering",
+        "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "source": "Hacker News",
+        "score": 187
       },
       {
         "title": "Inside Deutsche Bank",
         "url": "https://www.inside-db.com/",
         "source": "Hacker News",
-        "score": 545
+        "score": 672
       },
       {
-        "title": "AI agents ask better questions than KPMG accountants in audit trial",
-        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+        "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+        "url": "https://quebec.yarn.so",
         "source": "Hacker News",
-        "score": 340
-      },
-      {
-        "title": "DaisyRose-27B",
-        "url": "https://www.radixark.com/blog/daisyrose-27b",
-        "source": "Hacker News",
-        "score": 129
-      },
-      {
-        "title": "DNS resolvers are the wrong place to fight piracy",
-        "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-        "source": "Hacker News",
-        "score": 583
+        "score": 13
       },
       {
         "title": "LLM assisted reverse engineering",
         "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
         "source": "Hacker News",
-        "score": 40
+        "score": 185
       },
       {
-        "title": "We need smart people who give a shit",
-        "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+        "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+        "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
         "source": "Hacker News",
-        "score": 171
+        "score": 27
       },
       {
-        "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-        "url": "https://claudia.gallery/fable/",
+        "title": "Genie 4 is now available",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
         "source": "Hacker News",
-        "score": 9
+        "score": 243
       },
       {
-        "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
-        "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+        "title": "DaisyRose-27B",
+        "url": "https://www.radixark.com/blog/daisyrose-27b",
         "source": "Hacker News",
-        "score": 37
+        "score": 196
       },
       {
-        "title": "Advancing chip design with OpenAI models",
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+        "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+        "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
         "source": "Hacker News",
-        "score": 157
+        "score": 115
+      },
+      {
+        "title": "Mosquitoes are Ladakh's latest tourists",
+        "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+        "source": "Hacker News",
+        "score": 43
       }
     ],
     "ai": [
@@ -101,151 +101,109 @@
         "title": "Gemini 4 Neon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "source": "Hacker News AI",
-        "score": 396
+        "score": 773
       },
       {
-        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+        "url": "https://verialabs.com/ruby2shell/",
         "source": "Hacker News AI",
-        "score": 12
-      },
-      {
-        "title": "AI agents ask better questions than KPMG accountants in audit trial",
-        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-        "source": "Hacker News AI",
-        "score": 340
-      },
-      {
-        "title": "DaisyRose-27B",
-        "url": "https://www.radixark.com/blog/daisyrose-27b",
-        "source": "Hacker News AI",
-        "score": 129
-      },
-      {
-        "title": "LLM assisted reverse engineering",
-        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-        "source": "Hacker News AI",
-        "score": 40
-      },
-      {
-        "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-        "url": "https://claudia.gallery/fable/",
-        "source": "Hacker News AI",
-        "score": 9
-      },
-      {
-        "title": "Advancing chip design with OpenAI models",
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-        "source": "Hacker News AI",
-        "score": 157
+        "score": 33
       },
       {
         "title": "Anthropic prices initial public offering",
         "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
         "source": "Hacker News AI",
-        "score": 17
+        "score": 187
       },
       {
-        "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-        "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+        "title": "LLM assisted reverse engineering",
+        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
         "source": "Hacker News AI",
-        "score": 25
-      },
-      {
-        "title": "The Executive Mindset: From Technical Certainty to Strategic Trade-Offs",
-        "url": "https://www.talkingtech.online/articles/the-executive-mindset-from-technical-certainty-to-strategic-trade-offs",
-        "source": "Hacker News AI",
-        "score": 3
-      },
-      {
-        "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-        "url": "https://news.ycombinator.com/item?id=50549188",
-        "source": "Hacker News AI",
-        "score": 41
+        "score": 185
       },
       {
         "title": "Genie 4 is now available",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
         "source": "Hacker News AI",
-        "score": 181
+        "score": 243
       },
       {
-        "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-        "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+        "title": "DaisyRose-27B",
+        "url": "https://www.radixark.com/blog/daisyrose-27b",
         "source": "Hacker News AI",
-        "score": 26
+        "score": 196
       },
       {
-        "title": "Why is Gemini 4 Carbon taking so long?",
-        "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+        "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+        "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
         "source": "Hacker News AI",
-        "score": 264
+        "score": 115
+      },
+      {
+        "title": "Advancing chip design with OpenAI models",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+        "source": "Hacker News AI",
+        "score": 202
+      },
+      {
+        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+        "source": "Hacker News AI",
+        "score": 219
+      },
+      {
+        "title": "AI agents ask better questions than KPMG accountants in audit trial",
+        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+        "source": "Hacker News AI",
+        "score": 448
+      },
+      {
+        "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+        "url": "https://news.ycombinator.com/item?id=50549188",
+        "source": "Hacker News AI",
+        "score": 52
+      },
+      {
+        "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+        "url": "https://arxiv.org/abs/2607.29378",
+        "source": "Hacker News AI",
+        "score": 45
+      },
+      {
+        "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+        "url": "https://github.com/Ri4dH/failtrace",
+        "source": "Hacker News AI",
+        "score": 27
       }
     ],
     "news": [
+      {
+        "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+        "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
       {
         "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
         "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-        "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "title": "Crimean Bridge attacked again, Russia says",
+        "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
         "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
         "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
-      },
-      {
-        "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
       }
     ],
-    "art": [
-      {
-        "title": " Get up to 57% off Nintendo Switch games with these 19 Black Friday deals ",
-        "url": "https://www.creativebloq.com/deals/get-up-to-57-percent-off-nintendo-switch-games-with-these-19-black-friday-deals",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " I was skeptical of this office chair designed for women, but it's a revelation ",
-        "url": "https://www.creativebloq.com/reviews/i-was-skeptical-of-this-office-chair-designed-for-women-but-its-a-revelation",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " The Zelda 40th Anniversary Switch 2 console gets a tiny discount – here's where to buy it ",
-        "url": "https://www.creativebloq.com/deals/the-zelda-40th-anniversary-switch-2-console-gets-a-tiny-discount-heres-where-to-buy-it",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " Early Black Friday office chair deals are in –these are the 5 deals I'd get ",
-        "url": "https://www.creativebloq.com/deals/early-black-friday-office-chair-deals-are-in-these-are-the-5-deals-id-get",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " Logitech MX Keypad review: Can nine LCD keys take the pain out of Photoshop? ",
-        "url": "https://www.creativebloq.com/reviews/logitech-mx-keypad-review-can-nine-lcd-keys-take-the-pain-out-of-photoshop",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " GTA 6 review: Holy sh*t it’s good ",
-        "url": "https://www.creativebloq.com/reviews/gta-6-review-holy-sh-t-its-good",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " The NHL's virtual logos are not going down well ",
-        "url": "https://www.creativebloq.com/news/the-nhls-virtual-logos-are-a-step-too-far-for-digital-branding",
-        "source": "Creative Bloq"
-      }
-    ],
+    "art": [],
     "science": [
       {
         "title": "A rare disease reveals a hidden flaw in the immune system",
@@ -285,6 +243,26 @@
     ],
     "gaming": [
       {
+        "title": "All Cheat Codes in GTA 6",
+        "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+        "source": "Polygon"
+      },
+      {
+        "title": "GTA 6 Cast List: Who plays Jason, Lucia and More",
+        "url": "https://www.polygon.com/gta-6-cast-list-actors-cameos-grand-theft-auto/",
+        "source": "Polygon"
+      },
+      {
+        "title": "How Long Does It Take To Beat GTA 6?",
+        "url": "https://www.polygon.com/gta-6-how-long-to-beat-grand-theft-auto/",
+        "source": "Polygon"
+      },
+      {
+        "title": "'Calvin and Hobbes' Best Miss Wormwood Quote Is Still Among the Smartest in Comic Strip History",
+        "url": "https://www.polygon.com/miss-wormwood-calvin-hobbes/",
+        "source": "Polygon"
+      },
+      {
         "title": "GTA 6 Officially Cuts A Controversial Franchise Feature After 25 Years",
         "url": "https://www.polygon.com/gta-6-prostitutes-hookers-strippers-where-are-npcs-rockstar/",
         "source": "Polygon"
@@ -297,26 +275,6 @@
       {
         "title": "PlayStation Network Outage Hits On GTA 6 Release Day Eve",
         "url": "https://www.polygon.com/gta-6-is-psn-down-detector-account-services-busy-server-connection-error/",
-        "source": "Polygon"
-      },
-      {
-        "title": "2026's Most Viral Movie with 97 Rotten Tomatoes Score Sets Streaming Date",
-        "url": "https://www.polygon.com/you-can-see-everything-streaming-date-nov-24-2026/",
-        "source": "Polygon"
-      },
-      {
-        "title": "GTA 6's Completely Unrealistic Mountains Had to Be in the Game, Rockstar Says",
-        "url": "https://www.polygon.com/gta-6-rockstar-lummox-county/",
-        "source": "Polygon"
-      },
-      {
-        "title": "Switch 2 Is Getting an All-new Gamecube Controller",
-        "url": "https://www.polygon.com/nintendo-switch-2-wireless-game-cube-controller-8bitdo/",
-        "source": "Polygon"
-      },
-      {
-        "title": "Skyrim's Most Iconic Region Is Making a Major Comeback",
-        "url": "https://www.polygon.com/elder-scrolls-online-skyrim-winterhold-2027/",
         "source": "Polygon"
       }
     ],
