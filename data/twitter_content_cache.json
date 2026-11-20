@@ -1,231 +1,224 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T17:36:20.937079",
-    "total_items": 65
+    "last_updated": "2026-11-20T23:45:09.208889",
+    "total_items": 63
   },
   "content": {
     "tech": [
       {
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "source": "Hacker News",
+        "score": 1344
+      },
+      {
+        "title": "Inkling 2 Mini",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "source": "Hacker News",
+        "score": 533
+      },
+      {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "source": "Hacker News",
+        "score": 2270
+      },
+      {
+        "title": "NINLIVE: The Nine Inch Nails live archive",
+        "url": "https://ninlive.com/",
+        "source": "Hacker News",
+        "score": 44
+      },
+      {
+        "title": "We promoted developers into architects without informing them",
+        "url": "https://manidoraisamy.com/developer-to-architect.html",
+        "source": "Hacker News",
+        "score": 247
+      },
+      {
+        "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+        "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+        "source": "Hacker News",
+        "score": 295
+      },
+      {
         "title": "Language Models Can Rewrite Their Own Weights",
         "url": "https://arxiv.org/abs/2611.21885",
         "source": "Hacker News",
-        "score": 90
+        "score": 315
       },
       {
-        "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-        "url": "https://alpo.ge/remark.pdf",
+        "title": "A few hours ago Google DeepMind created a math horizon repo",
+        "url": "https://github.com/google-deepmind/math-horizon",
         "source": "Hacker News",
-        "score": 1400
+        "score": 37
       },
       {
         "title": "Finite-time blow-up for the Navier–Stokes equations",
         "url": "https://github.com/tristanbuckmaster/navier-stokes/",
         "source": "Hacker News",
-        "score": 69
+        "score": 244
       },
       {
-        "title": "I'll never buy Framework hardware again",
-        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+        "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+        "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
         "source": "Hacker News",
-        "score": 382
+        "score": 64
+      },
+      {
+        "title": "Vibecoding an inference chip",
+        "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+        "source": "Hacker News",
+        "score": 99
+      },
+      {
+        "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+        "url": "https://scottaaronson.blog/?p=10344",
+        "source": "Hacker News",
+        "score": 180
+      },
+      {
+        "title": "And Yet, It Moves",
+        "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+        "source": "Hacker News",
+        "score": 57
       },
       {
         "title": "If you can't explain something in simple terms, you don't understand it (2017)",
         "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
         "source": "Hacker News",
-        "score": 434
+        "score": 600
       },
       {
-        "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-        "url": "https://news.ycombinator.com/item?id=50577613",
+        "title": "Winedroid – run Android apps without Android (WASM demo)",
+        "url": "https://winedroid.soham.sh/demo/",
         "source": "Hacker News",
-        "score": 26
-      },
-      {
-        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-        "url": "https://architectlabs.com/blog/frostbite",
-        "source": "Hacker News",
-        "score": 474
-      },
-      {
-        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-        "url": "https://kobi.music/research/dettato",
-        "source": "Hacker News",
-        "score": 141
-      },
-      {
-        "title": "Signal Is Serious About Protecting Your Privacy",
-        "url": "https://signal.org/blog/protecting-your-privacy/",
-        "source": "Hacker News",
-        "score": 263
-      },
-      {
-        "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
-        "url": "https://github.com/bigcrimping/floppy3.5",
-        "source": "Hacker News",
-        "score": 92
-      },
-      {
-        "title": "Why there are still no non-WebKit browsers on iOS",
-        "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-        "source": "Hacker News",
-        "score": 163
-      },
-      {
-        "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
-        "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
-        "source": "Hacker News",
-        "score": 4
-      },
-      {
-        "title": "The G1 Garbage Collector",
-        "url": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
-        "source": "Hacker News",
-        "score": 52
-      },
-      {
-        "title": "The Making of Oxygene",
-        "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-        "source": "Hacker News",
-        "score": 146
-      },
-      {
-        "title": "Lovable: Now you can explore any idea in parallel without touching what's live",
-        "url": "https://lovable.dev/blog/introducing-drafts",
-        "source": "Hacker News",
-        "score": 13
+        "score": 82
       }
     ],
     "ai": [
       {
-        "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "Hacker News AI",
-        "score": 1400
+        "score": 2270
       },
       {
-        "title": "I'll never buy Framework hardware again",
-        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+        "title": "NINLIVE: The Nine Inch Nails live archive",
+        "url": "https://ninlive.com/",
         "source": "Hacker News AI",
-        "score": 382
+        "score": 44
       },
       {
         "title": "If you can't explain something in simple terms, you don't understand it (2017)",
         "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
         "source": "Hacker News AI",
-        "score": 434
-      },
-      {
-        "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-        "url": "https://news.ycombinator.com/item?id=50577613",
-        "source": "Hacker News AI",
-        "score": 26
+        "score": 600
       },
       {
         "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
         "url": "https://architectlabs.com/blog/frostbite",
         "source": "Hacker News AI",
-        "score": 474
+        "score": 607
       },
       {
-        "title": "What people are building, discovered through new domains",
-        "url": "https://startups.novumsignals.com/",
+        "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+        "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
         "source": "Hacker News AI",
-        "score": 123
+        "score": 7
       },
       {
-        "title": "Claude solves two open problems in the physics of black holes",
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+        "title": "Nasdaq erases all 2026 gains",
+        "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
         "source": "Hacker News AI",
-        "score": 537
+        "score": 46
       },
       {
-        "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-        "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+        "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+        "url": "https://news.ycombinator.com/item?id=50577613",
         "source": "Hacker News AI",
-        "score": 326
-      },
-      {
-        "title": "Anthropic’s Nasdaq debut",
-        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-        "source": "Hacker News AI",
-        "score": 1116
+        "score": 91
       },
       {
         "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
         "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
         "source": "Hacker News AI",
-        "score": 6
+        "score": 242
       },
       {
-        "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-        "url": "https://notesbylex.com/weight-space-programming-1990s",
+        "title": "AI is giving everyone the same advice",
+        "url": "https://a90.com/experiments/same-advice/",
         "source": "Hacker News AI",
-        "score": 115
+        "score": 44
       },
       {
-        "title": "ChatGPT for SNES",
-        "url": "https://www.bxfoundry.com/chatgpt_snes/",
+        "title": "What people are building, discovered through new domains",
+        "url": "https://startups.novumsignals.com/",
         "source": "Hacker News AI",
-        "score": 110
+        "score": 152
       },
       {
-        "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "title": "OPM Data Was Breached on the Same Day as the FAA Ground Stop, per Internal Email",
+        "url": "https://www.muellershewrote.com/p/breaking-opm-data-was-breached-on",
         "source": "Hacker News AI",
-        "score": 150
+        "score": 4
       },
       {
-        "title": "Tristan Buckmaster Claims Proof of Unforced Navier Stokes and Unforced Euler",
-        "url": "https://mastodon.social/@tristanbuckmaster/117649035783718539",
+        "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+        "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
         "source": "Hacker News AI",
-        "score": 16
+        "score": 19
       },
       {
-        "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-        "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+        "title": "Claude solves two open problems in the physics of black holes",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "source": "Hacker News AI",
-        "score": 110
+        "score": 551
       }
     ],
     "news": [
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
       {
         "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
         "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
+        "title": "French police officers sentenced for beating of music producer Michel Zecler",
+        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Gérard Depardieu and French author investigated over sexual allegations",
+        "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
         "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
         "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Anthropic shares fall a day after blockbuster opening",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Nearly 600 women killed in South Africa within three months",
-        "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Texas death-row inmate screams as execution takes more than one hour",
-        "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-        "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "South Korea catches 111 students with new measures against exam cheating",
-        "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
     "art": [
+      {
+        "title": " Nintendo Switch 2 has a super rare $30 discount ahead of Black Friday ",
+        "url": "https://www.creativebloq.com/deals/the-nintendo-switch-2-has-a-rare-usd30-discount-ahead-of-black-friday",
+        "source": "Creative Bloq"
+      },
       {
         "title": " These 8BitDo Tomb Raider controllers have made me rethink collectable gaming hardware ",
         "url": "https://www.creativebloq.com/news/these-8bitdo-tomb-raider-controllers-have-made-me-rethink-collectable-gaming-hardware",
@@ -254,11 +247,6 @@
       {
         "title": " This artist-made Photoshop alternative has no AI and no subscription ",
         "url": "https://www.creativebloq.com/news/this-artist-made-photoshop-alt-has-no-ai-and-no-subscription",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " Canva's 'AI off switch' finally recognises the backlash from creatives ",
-        "url": "https://www.creativebloq.com/news/the-canva-ai-off-switch-finally-recognises-the-artist-backlash",
         "source": "Creative Bloq"
       }
     ],
@@ -301,38 +289,38 @@
     ],
     "gaming": [
       {
-        "title": "GTA 6's Autosave Is Ruining The Game, But Not For The Reason You Think",
-        "url": "https://www.polygon.com/gta-6-auto-save-does-it-why-cant-i-mission-checkpoint-gameplay/",
+        "title": "Who is Johannes Zuch supposed to be in GTA 6?",
+        "url": "https://www.polygon.com/gta-6-tenebrae-lux-jonathan-blow/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6 Players Have Already Discovered an Infinite Money Glitch",
-        "url": "https://www.polygon.com/gta-6-infinite-money-glitch/",
+        "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (November 20 - 22)",
+        "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-20-22/",
         "source": "Polygon"
       },
       {
-        "title": "The One Thing About GTA 6's Ending to Know Before You Get Too Far In",
-        "url": "https://www.polygon.com/gta-6-ending-explained-rob-nelson/",
+        "title": "GTA 6 Players Are Officially Spending an ‘Absolutely Bonkers’ Amount of Time with the Game",
+        "url": "https://www.polygon.com/gta-6-playtime-stats-launch-day-ps5-xbox-series-x/",
         "source": "Polygon"
       },
       {
-        "title": "Yellowjackets Season 4 Episode 1 Ending Explained: What Did Natalie See?",
-        "url": "https://www.polygon.com/yellowjackets-season-4-episode-1-ending-explained/",
+        "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 20-26)",
+        "url": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-20-26/",
         "source": "Polygon"
       },
       {
-        "title": "Undertale Creator Officially Teases the End of Deltarune",
-        "url": "https://www.polygon.com/deltarune-chapter-6-7-finale-update-toby-fox/",
+        "title": "'Baldur’s Gate 3' Official Prequel Announced for 2027",
+        "url": "https://www.polygon.com/baldurs-gate-3-shadowheart-prequel-book-dnd/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6’s Official Connection to Red Dead Redemption Revealed",
-        "url": "https://www.polygon.com/gta-6-red-dead-redemption-other-rockstar-games/",
+        "title": "44 Years Later, Steven Spielberg's Scariest Movie of All Time Is Officially Free on Streaming",
+        "url": "https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-free-on-pluto-tv/",
         "source": "Polygon"
       },
       {
-        "title": "6 Steam Games To Wishlist That Aren't GTA 6",
-        "url": "https://www.polygon.com/wishlister-nov-20/",
+        "title": "8 New TV Shows to Watch This Weekend on Netflix, Disney, and Paramount (November 20-22)",
+        "url": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-november-20-22/",
         "source": "Polygon"
       }
     ],
