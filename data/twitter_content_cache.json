@@ -1,221 +1,231 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T17:59:45.447939",
-    "total_items": 63
+    "last_updated": "2026-11-20T00:32:52.268691",
+    "total_items": 64
   },
   "content": {
     "tech": [
       {
-        "title": "Anthropic hits $2T in Nasdaq debut",
+        "title": "Anthropic’s Nasdaq debut",
         "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
         "source": "Hacker News",
-        "score": 69
+        "score": 850
       },
       {
-        "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-        "url": "https://thedataexchange.media/pete-warden-moonshine/",
+        "title": "Pancreatic cancer halted by virus injection in three patients",
+        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
         "source": "Hacker News",
-        "score": 124
+        "score": 509
       },
       {
-        "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+        "title": "Synology Security Advisory",
+        "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+        "source": "Hacker News",
+        "score": 81
+      },
+      {
+        "title": "Claude solves two open problems in the physics of black holes",
         "url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "source": "Hacker News",
-        "score": 24
+        "score": 355
+      },
+      {
+        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "url": "https://git-aarvin.github.io/mei/",
+        "source": "Hacker News",
+        "score": 20
+      },
+      {
+        "title": "RegExr: Temporarily Offline",
+        "url": "https://regexr.com/",
+        "source": "Hacker News",
+        "score": 34
+      },
+      {
+        "title": "How to CAD Almost Anything",
+        "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+        "source": "Hacker News",
+        "score": 89
+      },
+      {
+        "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+        "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+        "source": "Hacker News",
+        "score": 180
       },
       {
         "title": "Garage Door Spam",
         "url": "https://blog.harrison.page/garage-door-spam/",
         "source": "Hacker News",
-        "score": 497
+        "score": 731
       },
       {
-        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-        "url": "https://github.com/onlook-dev/onlook/",
+        "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+        "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
         "source": "Hacker News",
-        "score": 21
+        "score": 66
       },
       {
-        "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+        "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
         "url": "https://cornholenews.news",
         "source": "Hacker News",
-        "score": 61
-      },
-      {
-        "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-        "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-        "source": "Hacker News",
-        "score": 130
+        "score": 182
       },
       {
         "title": "Someone reported java4shell bug in September 2026",
         "url": "https://github.com/openjdk/jdk/pull/32781",
         "source": "Hacker News",
-        "score": 181
+        "score": 352
       },
       {
-        "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+        "title": "UK government forced to admit it issued Apple a secret encryption order",
         "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
         "source": "Hacker News",
-        "score": 105
+        "score": 471
       },
       {
-        "title": "How the European Commission rolled out Matrix to more than 40k staff",
-        "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+        "title": "Rebuilding my local voice assistant pipeline",
+        "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
         "source": "Hacker News",
-        "score": 548
+        "score": 47
       },
       {
-        "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-        "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "url": "https://github.com/onlook-dev/onlook/",
         "source": "Hacker News",
-        "score": 177
-      },
-      {
-        "title": "Everything you need to survive and rebuild society",
-        "url": "https://lastbook.org/",
-        "source": "Hacker News",
-        "score": 213
-      },
-      {
-        "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
-        "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
-        "source": "Hacker News",
-        "score": 29
-      },
-      {
-        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-        "url": "https://verialabs.com/ruby2shell/",
-        "source": "Hacker News",
-        "score": 313
-      },
-      {
-        "title": "What's New in PHP 8.6",
-        "url": "https://www.php.net/releases/8.6/en.php",
-        "source": "Hacker News",
-        "score": 219
+        "score": 83
       }
     ],
     "ai": [
       {
-        "title": "Anthropic hits $2T in Nasdaq debut",
+        "title": "Anthropic’s Nasdaq debut",
         "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
         "source": "Hacker News AI",
-        "score": 69
+        "score": 850
       },
       {
-        "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-        "url": "https://thedataexchange.media/pete-warden-moonshine/",
-        "source": "Hacker News AI",
-        "score": 124
-      },
-      {
-        "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+        "title": "Claude solves two open problems in the physics of black holes",
         "url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "source": "Hacker News AI",
-        "score": 24
+        "score": 355
+      },
+      {
+        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "url": "https://git-aarvin.github.io/mei/",
+        "source": "Hacker News AI",
+        "score": 20
+      },
+      {
+        "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+        "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+        "source": "Hacker News AI",
+        "score": 180
       },
       {
         "title": "Garage Door Spam",
         "url": "https://blog.harrison.page/garage-door-spam/",
         "source": "Hacker News AI",
-        "score": 497
+        "score": 731
+      },
+      {
+        "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+        "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+        "source": "Hacker News AI",
+        "score": 66
+      },
+      {
+        "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+        "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+        "source": "Hacker News AI",
+        "score": 40
       },
       {
         "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
         "url": "https://verialabs.com/ruby2shell/",
         "source": "Hacker News AI",
-        "score": 313
+        "score": 380
+      },
+      {
+        "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+        "url": "https://thedataexchange.media/pete-warden-moonshine/",
+        "source": "Hacker News AI",
+        "score": 208
       },
       {
         "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
         "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
         "source": "Hacker News AI",
-        "score": 104
-      },
-      {
-        "title": "Chrome AI features wasting much bandwidth",
-        "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-        "source": "Hacker News AI",
-        "score": 52
+        "score": 187
       },
       {
         "title": "Distributed, high-performance blob storage on SQLite",
         "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
         "source": "Hacker News AI",
-        "score": 194
+        "score": 256
       },
       {
-        "title": "OpenAI still has a WebRTC Problem",
-        "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+        "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+        "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
         "source": "Hacker News AI",
-        "score": 71
-      },
-      {
-        "title": "From data to silicon: play Connect-4 against a chip",
-        "url": "https://benoitrostykus.com/data_to_silicon.html",
-        "source": "Hacker News AI",
-        "score": 6
+        "score": 34
       },
       {
         "title": "Fuck Your AI Safeguards",
         "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
         "source": "Hacker News AI",
-        "score": 76
-      },
-      {
-        "title": "Anthropic prices initial public offering",
-        "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-        "source": "Hacker News AI",
-        "score": 393
-      },
-      {
-        "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-        "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-        "source": "Hacker News AI",
-        "score": 19
+        "score": 464
       },
       {
         "title": "Gemini 4 Neon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "source": "Hacker News AI",
-        "score": 979
+        "score": 1013
       },
       {
-        "title": "LLM assisted reverse engineering",
-        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "title": "Bending Spoons has entered into a definitive agreement to acquire Mailchimp",
+        "url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000026/bsp_ex99-1.htm",
         "source": "Hacker News AI",
-        "score": 289
+        "score": 17
       }
     ],
     "news": [
+      {
+        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
       {
         "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
         "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-        "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+        "title": "California targets Nvidia in China AI chip probe",
+        "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-        "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-        "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+        "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
     "art": [
+      {
+        "title": " Nintendo Switch Black Friday deals already include rare discounts on the Switch 2 ",
+        "url": "https://www.creativebloq.com/deals/nintendo-switch-black-friday-deals-already-include-rare-discounts-on-the-switch-2",
+        "source": "Creative Bloq"
+      },
       {
         "title": " Huion’s early Black Friday sale takes up to $328 off the best drawing tablets ",
         "url": "https://www.creativebloq.com/deals/huions-early-black-friday-sale-takes-up-to-usd328-off-the-best-drawing-tablets",
@@ -245,14 +255,14 @@
         "title": " This cosy Godot-made indie game makes you feel like a still life artist ",
         "url": "https://www.creativebloq.com/features/this-cosy-godot-made-indie-game-makes-you-feel-like-a-still-life-artist",
         "source": "Creative Bloq"
-      },
-      {
-        "title": " I dare Apple to make this delightful AirPods design a reality ",
-        "url": "https://www.creativebloq.com/news/i-dare-apple-to-make-this-delightful-airpods-design-a-reality",
-        "source": "Creative Bloq"
       }
     ],
     "science": [
+      {
+        "title": "Experimental compound burns fat without sacrificing muscle",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+        "source": "Science Daily"
+      },
       {
         "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
         "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
@@ -282,47 +292,42 @@
         "title": "Something strange is living beneath the skin of deep-sea pigs",
         "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
         "source": "Science Daily"
-      },
-      {
-        "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
-        "source": "Science Daily"
       }
     ],
     "gaming": [
       {
-        "title": "Phone apps list in GTA 6",
-        "url": "https://www.polygon.com/gta-6-phone-apps-list-how-to-use/",
+        "title": "Valve Warns of a Possible Steam Machine Price Hike",
+        "url": "https://www.polygon.com/steam-machine-possible-price-hike/",
         "source": "Polygon"
       },
       {
-        "title": "Huge New Nvidia Bug Is Ruining Gaming Hardware, Users Say",
-        "url": "https://www.polygon.com/nvidia-graphics-driver-bug-gaming-hardware/",
+        "title": "GTA 6 Gamble to Get Army Soldiers to Reenlist Actually Worked",
+        "url": "https://www.polygon.com/gta-6-us-army-soldiers-reenlist-four-day-weekend/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6’s Best-Kept Secret Is the Most Important Part of the Game",
-        "url": "https://www.polygon.com/gta6-prologue-secret/",
+        "title": "Steam Makes Strategy RPG Masterpiece Free For a Limited Time",
+        "url": "https://www.polygon.com/free-games-on-steam-november-2026-crusader-kings-3/",
         "source": "Polygon"
       },
       {
-        "title": "Christopher Nolan Explains Why Fans Will Never See an Odyssey Director’s Cut",
-        "url": "https://www.polygon.com/christopher-nolan-the-odyssey-home-release-no-directors-cut/",
+        "title": "GTA 6 Shows Why You Should Never, Ever, Ever Text and Drive (Ever)",
+        "url": "https://www.polygon.com/gta-6-texting-and-driving/",
         "source": "Polygon"
       },
       {
-        "title": "Invincible Officially Addresses Its Worst Season 4 Episode With Season 5 Reveal",
-        "url": "https://www.polygon.com/invincible-season-5-announcement-teaser/",
+        "title": "Jordan Peele Might Be Bringing Back One of Horror’s Biggest Franchises",
+        "url": "https://www.polygon.com/jordan-peele-nightmare-on-elm-street-reboot-tease/",
         "source": "Polygon"
       },
       {
-        "title": "Parks and Rec's Spiritual Sequel Reveals a Dark Truth About Sitcoms and Streaming",
-        "url": "https://www.polygon.com/dig-review-peacock-amy-poehler-mike-schur/",
+        "title": "GTA 6 guides and walkthroughs",
+        "url": "https://www.polygon.com/gta-6-guides-walkthroughs-tips/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6's Free PC Competitor Is Blowing Up on Steam ",
-        "url": "https://www.polygon.com/gta-6-competitor-rob-run-blowing-up-steam/",
+        "title": "Brandon Sanderson’s Mistborn TTRPG Solves the Biggest Problem With Licensed Games",
+        "url": "https://www.polygon.com/mistborn-legacy-ttrpg-impressions/",
         "source": "Polygon"
       }
     ],
