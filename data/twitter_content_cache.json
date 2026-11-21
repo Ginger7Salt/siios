@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T23:45:09.208889",
-    "total_items": 63
+    "last_updated": "2026-11-21T05:58:10.163126",
+    "total_items": 65
   },
   "content": {
     "tech": [
@@ -9,91 +9,91 @@
         "title": "Hurried Announcement: Alessandro Masullo GRH",
         "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
         "source": "Hacker News",
-        "score": 1344
-      },
-      {
-        "title": "Inkling 2 Mini",
-        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "source": "Hacker News",
-        "score": 533
+        "score": 1813
       },
       {
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "Hacker News",
-        "score": 2270
+        "score": 2495
+      },
+      {
+        "title": "Inkling 2 Mini",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "source": "Hacker News",
+        "score": 855
       },
       {
         "title": "NINLIVE: The Nine Inch Nails live archive",
         "url": "https://ninlive.com/",
         "source": "Hacker News",
-        "score": 44
+        "score": 195
       },
       {
         "title": "We promoted developers into architects without informing them",
         "url": "https://manidoraisamy.com/developer-to-architect.html",
         "source": "Hacker News",
-        "score": 247
+        "score": 364
       },
       {
         "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
         "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
         "source": "Hacker News",
-        "score": 295
+        "score": 393
+      },
+      {
+        "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+        "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+        "source": "Hacker News",
+        "score": 87
+      },
+      {
+        "title": "Sir Brian May adds new dimension to Hera asteroid",
+        "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+        "source": "Hacker News",
+        "score": 74
+      },
+      {
+        "title": "Clojure will affect the way you think about programming (2017)",
+        "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+        "source": "Hacker News",
+        "score": 33
       },
       {
         "title": "Language Models Can Rewrite Their Own Weights",
         "url": "https://arxiv.org/abs/2611.21885",
         "source": "Hacker News",
-        "score": 315
-      },
-      {
-        "title": "A few hours ago Google DeepMind created a math horizon repo",
-        "url": "https://github.com/google-deepmind/math-horizon",
-        "source": "Hacker News",
-        "score": 37
-      },
-      {
-        "title": "Finite-time blow-up for the Navier–Stokes equations",
-        "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-        "source": "Hacker News",
-        "score": 244
+        "score": 374
       },
       {
         "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
         "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
         "source": "Hacker News",
-        "score": 64
+        "score": 165
+      },
+      {
+        "title": "Finite-time blow-up for the Navier–Stokes equations",
+        "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+        "source": "Hacker News",
+        "score": 272
+      },
+      {
+        "title": "BlackBlaze now explicitly states selling your data for advertisement",
+        "url": "https://www.backblaze.com/company/policy/privacy",
+        "source": "Hacker News",
+        "score": 100
+      },
+      {
+        "title": "Serious cyberattack thought backed by wealthy operators",
+        "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+        "source": "Hacker News",
+        "score": 52
       },
       {
         "title": "Vibecoding an inference chip",
         "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
         "source": "Hacker News",
-        "score": 99
-      },
-      {
-        "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-        "url": "https://scottaaronson.blog/?p=10344",
-        "source": "Hacker News",
-        "score": 180
-      },
-      {
-        "title": "And Yet, It Moves",
-        "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-        "source": "Hacker News",
-        "score": 57
-      },
-      {
-        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-        "source": "Hacker News",
-        "score": 600
-      },
-      {
-        "title": "Winedroid – run Android apps without Android (WASM demo)",
-        "url": "https://winedroid.soham.sh/demo/",
-        "source": "Hacker News",
-        "score": 82
+        "score": 132
       }
     ],
     "ai": [
@@ -101,79 +101,91 @@
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "Hacker News AI",
-        "score": 2270
+        "score": 2495
       },
       {
         "title": "NINLIVE: The Nine Inch Nails live archive",
         "url": "https://ninlive.com/",
         "source": "Hacker News AI",
-        "score": 44
+        "score": 195
       },
       {
-        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
         "source": "Hacker News AI",
-        "score": 600
+        "score": 212
       },
       {
-        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-        "url": "https://architectlabs.com/blog/frostbite",
+        "title": "Fewer slides, more dragons",
+        "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
         "source": "Hacker News AI",
-        "score": 607
+        "score": 3
+      },
+      {
+        "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+        "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+        "source": "Hacker News AI",
+        "score": 101
       },
       {
         "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
         "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
         "source": "Hacker News AI",
-        "score": 7
-      },
-      {
-        "title": "Nasdaq erases all 2026 gains",
-        "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-        "source": "Hacker News AI",
-        "score": 46
+        "score": 30
       },
       {
         "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
         "url": "https://news.ycombinator.com/item?id=50577613",
         "source": "Hacker News AI",
-        "score": 91
+        "score": 106
       },
       {
-        "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+        "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+        "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
         "source": "Hacker News AI",
-        "score": 242
+        "score": 25
+      },
+      {
+        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+        "source": "Hacker News AI",
+        "score": 651
+      },
+      {
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "source": "Hacker News AI",
+        "score": 637
+      },
+      {
+        "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+        "url": "https://signal.org/blog/protecting-your-privacy/",
+        "source": "Hacker News AI",
+        "score": 537
+      },
+      {
+        "title": "I'll never buy Framework hardware again",
+        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+        "source": "Hacker News AI",
+        "score": 782
       },
       {
         "title": "AI is giving everyone the same advice",
         "url": "https://a90.com/experiments/same-advice/",
         "source": "Hacker News AI",
-        "score": 44
+        "score": 72
       },
       {
         "title": "What people are building, discovered through new domains",
         "url": "https://startups.novumsignals.com/",
         "source": "Hacker News AI",
-        "score": 152
-      },
-      {
-        "title": "OPM Data Was Breached on the Same Day as the FAA Ground Stop, per Internal Email",
-        "url": "https://www.muellershewrote.com/p/breaking-opm-data-was-breached-on",
-        "source": "Hacker News AI",
-        "score": 4
-      },
-      {
-        "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-        "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
-        "source": "Hacker News AI",
-        "score": 19
+        "score": 158
       },
       {
         "title": "Claude solves two open problems in the physics of black holes",
         "url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "source": "Hacker News AI",
-        "score": 551
+        "score": 554
       }
     ],
     "news": [
@@ -188,13 +200,18 @@
         "source": "BBC World"
       },
       {
-        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "title": "French police officers sentenced for beating of music producer Michel Zecler",
+        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "French police officers sentenced for beating of music producer Michel Zecler",
-        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -205,11 +222,6 @@
       {
         "title": "Gérard Depardieu and French author investigated over sexual allegations",
         "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
@@ -252,6 +264,21 @@
     ],
     "science": [
       {
+        "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+        "source": "Science Daily"
+      },
+      {
         "title": "Keto diet slashes liver fat by 67% in just 4 months",
         "url": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
         "source": "Science Daily"
@@ -267,60 +294,45 @@
         "source": "Science Daily"
       },
       {
-        "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Experimental compound burns fat without sacrificing muscle",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+        "title": "A decades-old mystery about light could hold the key to faster internet",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
         "source": "Science Daily"
       }
     ],
     "gaming": [
       {
-        "title": "Who is Johannes Zuch supposed to be in GTA 6?",
-        "url": "https://www.polygon.com/gta-6-tenebrae-lux-jonathan-blow/",
+        "title": "9 Calvin and Hobbes Comics from the 1990s that Prove Bill Watterson is a Genius",
+        "url": "https://www.polygon.com/9-perfect-calvin-and-hobbes-1990s-comics/",
         "source": "Polygon"
       },
       {
-        "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (November 20 - 22)",
-        "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-20-22/",
+        "title": "Pokémon's 24-Part $399 Collection Officially Launches Next Week",
+        "url": "https://www.polygon.com/pokemon-movie-collection-amazon-blu-ray-november-2026/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6 Players Are Officially Spending an ‘Absolutely Bonkers’ Amount of Time with the Game",
-        "url": "https://www.polygon.com/gta-6-playtime-stats-launch-day-ps5-xbox-series-x/",
+        "title": "Pokémon Go Pawniard Community Day event guide",
+        "url": "https://www.polygon.com/pokemon-go-pawniward-community-day-shiny-bisharp-moveset/",
         "source": "Polygon"
       },
       {
-        "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 20-26)",
-        "url": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-20-26/",
+        "title": "The Witcher 4 Gets Official Update on Physical Release",
+        "url": "https://www.polygon.com/the-witcher-4-physical-release-cd-projekt-red-ps5/",
         "source": "Polygon"
       },
       {
-        "title": "'Baldur’s Gate 3' Official Prequel Announced for 2027",
-        "url": "https://www.polygon.com/baldurs-gate-3-shadowheart-prequel-book-dnd/",
+        "title": "Everything We Know About GTA 7",
+        "url": "https://www.polygon.com/gta-7-release-setting/",
         "source": "Polygon"
       },
       {
-        "title": "44 Years Later, Steven Spielberg's Scariest Movie of All Time Is Officially Free on Streaming",
-        "url": "https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-free-on-pluto-tv/",
+        "title": "8 Near-Perfect Fantasy Miniseries That Hook You in the First Episode",
+        "url": "https://www.polygon.com/8-near-perfect-fantasy-miniseries-that-hook-you-in-the-first-episode/",
         "source": "Polygon"
       },
       {
-        "title": "8 New TV Shows to Watch This Weekend on Netflix, Disney, and Paramount (November 20-22)",
-        "url": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-november-20-22/",
+        "title": "'Steps' Ending Explained: Director Reveals the True Meaning Behind Cinderella Adaptation",
+        "url": "https://www.polygon.com/netflix-steps-ending-explained/",
         "source": "Polygon"
       }
     ],
