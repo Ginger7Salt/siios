@@ -1,99 +1,99 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T05:58:10.163126",
+    "last_updated": "2026-11-21T14:31:12.958059",
     "total_items": 65
   },
   "content": {
     "tech": [
       {
+        "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "source": "Hacker News",
+        "score": 72
+      },
+      {
+        "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+        "source": "Hacker News",
+        "score": 254
+      },
+      {
+        "title": "My Monitor Was Cutting My Download Speed by 75%",
+        "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "source": "Hacker News",
+        "score": 103
+      },
+      {
         "title": "Hurried Announcement: Alessandro Masullo GRH",
         "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
         "source": "Hacker News",
-        "score": 1813
+        "score": 2243
       },
       {
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "Hacker News",
-        "score": 2495
+        "score": 2747
+      },
+      {
+        "title": "RCE in Gnupg",
+        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+        "source": "Hacker News",
+        "score": 112
       },
       {
         "title": "Inkling 2 Mini",
         "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
         "source": "Hacker News",
-        "score": 855
+        "score": 1136
       },
       {
-        "title": "NINLIVE: The Nine Inch Nails live archive",
-        "url": "https://ninlive.com/",
+        "title": "LLMs can read and write executables byte by byte from a hex dump",
+        "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
         "source": "Hacker News",
-        "score": 195
+        "score": 21
+      },
+      {
+        "title": "ClawDOS – An AI coding agent for DOS",
+        "url": "http://ricapar.net/ClawDOS/",
+        "source": "Hacker News",
+        "score": 118
       },
       {
         "title": "We promoted developers into architects without informing them",
         "url": "https://manidoraisamy.com/developer-to-architect.html",
         "source": "Hacker News",
-        "score": 364
+        "score": 499
       },
       {
         "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
         "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
         "source": "Hacker News",
-        "score": 393
-      },
-      {
-        "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-        "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-        "source": "Hacker News",
-        "score": 87
-      },
-      {
-        "title": "Sir Brian May adds new dimension to Hera asteroid",
-        "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-        "source": "Hacker News",
-        "score": 74
+        "score": 483
       },
       {
         "title": "Clojure will affect the way you think about programming (2017)",
         "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
         "source": "Hacker News",
-        "score": 33
+        "score": 138
       },
       {
-        "title": "Language Models Can Rewrite Their Own Weights",
-        "url": "https://arxiv.org/abs/2611.21885",
+        "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+        "url": "https://news.ycombinator.com/item?id=50583761",
         "source": "Hacker News",
-        "score": 374
+        "score": 323
       },
       {
-        "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-        "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+        "title": "Surprisingly Adorable Insect Portraits",
+        "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
         "source": "Hacker News",
-        "score": 165
+        "score": 88
       },
       {
-        "title": "Finite-time blow-up for the Navier–Stokes equations",
-        "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+        "title": "NINLIVE: The Nine Inch Nails live archive",
+        "url": "https://ninlive.com/",
         "source": "Hacker News",
-        "score": 272
-      },
-      {
-        "title": "BlackBlaze now explicitly states selling your data for advertisement",
-        "url": "https://www.backblaze.com/company/policy/privacy",
-        "source": "Hacker News",
-        "score": 100
-      },
-      {
-        "title": "Serious cyberattack thought backed by wealthy operators",
-        "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-        "source": "Hacker News",
-        "score": 52
-      },
-      {
-        "title": "Vibecoding an inference chip",
-        "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-        "source": "Hacker News",
-        "score": 132
+        "score": 301
       }
     ],
     "ai": [
@@ -101,102 +101,112 @@
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "Hacker News AI",
-        "score": 2495
+        "score": 2747
+      },
+      {
+        "title": "LLMs can read and write executables byte by byte from a hex dump",
+        "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+        "source": "Hacker News AI",
+        "score": 21
+      },
+      {
+        "title": "ClawDOS – An AI coding agent for DOS",
+        "url": "http://ricapar.net/ClawDOS/",
+        "source": "Hacker News AI",
+        "score": 118
+      },
+      {
+        "title": "Surprisingly Adorable Insect Portraits",
+        "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+        "source": "Hacker News AI",
+        "score": 88
       },
       {
         "title": "NINLIVE: The Nine Inch Nails live archive",
         "url": "https://ninlive.com/",
         "source": "Hacker News AI",
-        "score": 195
+        "score": 301
       },
       {
         "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
         "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
         "source": "Hacker News AI",
-        "score": 212
+        "score": 388
       },
       {
         "title": "Fewer slides, more dragons",
         "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
         "source": "Hacker News AI",
-        "score": 3
+        "score": 50
       },
       {
         "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
         "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
         "source": "Hacker News AI",
-        "score": 101
+        "score": 130
       },
       {
-        "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-        "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+        "title": "Microsoft's SideWinder Strategic Commander was a failed attempt",
+        "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
         "source": "Hacker News AI",
-        "score": 30
-      },
-      {
-        "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-        "url": "https://news.ycombinator.com/item?id=50577613",
-        "source": "Hacker News AI",
-        "score": 106
-      },
-      {
-        "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
-        "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-        "source": "Hacker News AI",
-        "score": 25
+        "score": 20
       },
       {
         "title": "If you can't explain something in simple terms, you don't understand it (2017)",
         "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
         "source": "Hacker News AI",
-        "score": 651
+        "score": 671
       },
       {
         "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
         "url": "https://architectlabs.com/blog/frostbite",
         "source": "Hacker News AI",
-        "score": 637
+        "score": 653
       },
       {
-        "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-        "url": "https://signal.org/blog/protecting-your-privacy/",
+        "title": "Worlds largest beaver dam in Northern Alberta",
+        "url": "https://substack.com/@canadianreturnee/note/c-319574497",
         "source": "Hacker News AI",
-        "score": 537
+        "score": 33
       },
       {
-        "title": "I'll never buy Framework hardware again",
-        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+        "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+        "url": "https://news.ycombinator.com/item?id=50577613",
         "source": "Hacker News AI",
-        "score": 782
+        "score": 114
       },
       {
-        "title": "AI is giving everyone the same advice",
-        "url": "https://a90.com/experiments/same-advice/",
+        "title": "Anthropic's IPO bank closed position meant to stabilize stock",
+        "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
         "source": "Hacker News AI",
-        "score": 72
+        "score": 9
       },
       {
-        "title": "What people are building, discovered through new domains",
-        "url": "https://startups.novumsignals.com/",
+        "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+        "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
         "source": "Hacker News AI",
-        "score": 158
-      },
-      {
-        "title": "Claude solves two open problems in the physics of black holes",
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "source": "Hacker News AI",
-        "score": 554
+        "score": 46
       }
     ],
     "news": [
+      {
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
       {
         "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -210,55 +220,45 @@
         "source": "BBC World"
       },
       {
-        "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Gérard Depardieu and French author investigated over sexual allegations",
-        "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+        "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
     "art": [
       {
+        "title": " How SNTIENT 2.0 put a ruined city outside a bedroom-sized set ",
+        "url": "https://www.creativebloq.com/news/how-sntient-2-0-put-a-ruined-city-outside-a-bedroom-sized-set",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " This beautiful logo design was created to grow like nature ",
+        "url": "https://www.creativebloq.com/news/this-beautiful-logo-design-was-created-to-grow-like-nature",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " GTA 6’s NPCs are built to the same visual standard as Jason and Lucia ",
+        "url": "https://www.creativebloq.com/news/gta-6s-npcs-are-built-to-the-same-visual-standard-as-jason-and-lucia",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " This movie poster is one big AI slop Easter egg hunt ",
+        "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " How to pick the right website template for your creative business ",
+        "url": "https://www.creativebloq.com/features/how-to-pick-the-right-website-template-for-your-creative-business",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " Why has North Korea redesigned its flag? It's not about aesthetics... ",
+        "url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics",
+        "source": "Creative Bloq"
+      },
+      {
         "title": " Nintendo Switch 2 has a super rare $30 discount ahead of Black Friday ",
         "url": "https://www.creativebloq.com/deals/the-nintendo-switch-2-has-a-rare-usd30-discount-ahead-of-black-friday",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " These 8BitDo Tomb Raider controllers have made me rethink collectable gaming hardware ",
-        "url": "https://www.creativebloq.com/news/these-8bitdo-tomb-raider-controllers-have-made-me-rethink-collectable-gaming-hardware",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " How this watercolour artist broke free from neat borders ",
-        "url": "https://www.creativebloq.com/features/how-this-watercolour-artist-broke-free-from-neat-borders",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " My all-time favourite pro headphones got a £100 price cut for Black Friday ",
-        "url": "https://www.creativebloq.com/deals/my-all-time-favourite-pro-headphones-got-a-gbp100-price-cut-for-black-friday",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " GTA 6's environmental storytelling is hidden in the details you might never notice ",
-        "url": "https://www.creativebloq.com/news/gta-6s-environmental-storytelling-is-hidden-in-the-details-you-might-never-notice",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " Host the perfect craft night with 15% off pottery painting kits ",
-        "url": "https://www.creativebloq.com/deals/host-the-perfect-craft-night-with-15-percent-off-pottery-painting-kits",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " This artist-made Photoshop alternative has no AI and no subscription ",
-        "url": "https://www.creativebloq.com/news/this-artist-made-photoshop-alt-has-no-ai-and-no-subscription",
         "source": "Creative Bloq"
       }
     ],
@@ -301,38 +301,38 @@
     ],
     "gaming": [
       {
-        "title": "9 Calvin and Hobbes Comics from the 1990s that Prove Bill Watterson is a Genius",
-        "url": "https://www.polygon.com/9-perfect-calvin-and-hobbes-1990s-comics/",
+        "title": "'The Odyssey' Cast Debunks a Major Misconception About Working with Christopher Nolan",
+        "url": "https://www.polygon.com/christopher-nolan-isnt-nearly-as-serious-as-you-might-think-according-to-the-odysseys-cast-and-crew/",
         "source": "Polygon"
       },
       {
-        "title": "Pokémon's 24-Part $399 Collection Officially Launches Next Week",
-        "url": "https://www.polygon.com/pokemon-movie-collection-amazon-blu-ray-november-2026/",
+        "title": "Nintendo’s Long History with GTA Seems to Have Met Its End",
+        "url": "https://www.polygon.com/switchboard-nintendo-switch-2-gta-6-rockstar/",
         "source": "Polygon"
       },
       {
-        "title": "Pokémon Go Pawniard Community Day event guide",
-        "url": "https://www.polygon.com/pokemon-go-pawniward-community-day-shiny-bisharp-moveset/",
+        "title": "Quentin Tarantino's Western Thriller Masterpiece Is Officially Free on Streaming",
+        "url": "https://www.polygon.com/hateful-eight-free-to-stream-tubi/",
         "source": "Polygon"
       },
       {
-        "title": "The Witcher 4 Gets Official Update on Physical Release",
-        "url": "https://www.polygon.com/the-witcher-4-physical-release-cd-projekt-red-ps5/",
+        "title": "5 Years Later, 'Yellowjackets' Officially Solves One of Its Last Huge Mysteries",
+        "url": "https://www.polygon.com/yellowjackets-season-4-plane-crash-location/",
         "source": "Polygon"
       },
       {
-        "title": "Everything We Know About GTA 7",
-        "url": "https://www.polygon.com/gta-7-release-setting/",
+        "title": "George R.R. Martin’s 7 Best Non-Game of Thrones Books, Ranked",
+        "url": "https://www.polygon.com/george-rr-martins-best-non-game-of-thrones-books-ranked/",
         "source": "Polygon"
       },
       {
-        "title": "8 Near-Perfect Fantasy Miniseries That Hook You in the First Episode",
-        "url": "https://www.polygon.com/8-near-perfect-fantasy-miniseries-that-hook-you-in-the-first-episode/",
+        "title": "Gary Larson's 10 Greatest 'Far Side' Comics, Ranked",
+        "url": "https://www.polygon.com/best-far-side-comics-ever-ranked-gary-larson/",
         "source": "Polygon"
       },
       {
-        "title": "'Steps' Ending Explained: Director Reveals the True Meaning Behind Cinderella Adaptation",
-        "url": "https://www.polygon.com/netflix-steps-ending-explained/",
+        "title": "Goodbye 'Rings of Power,' Prime Video’s Legendary 48-Episode Fantasy Series Is Even Better",
+        "url": "https://www.polygon.com/the-legend-of-vox-machina-prime-video-rec/",
         "source": "Polygon"
       }
     ],
