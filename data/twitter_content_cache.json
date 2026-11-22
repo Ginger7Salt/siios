@@ -1,167 +1,187 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T16:03:00.023889",
+    "last_updated": "2026-11-22T22:19:34.364912",
     "total_items": 60
   },
   "content": {
     "tech": [
       {
+        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+        "source": "Hacker News",
+        "score": 213
+      },
+      {
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "source": "Hacker News",
+        "score": 42
+      },
+      {
+        "title": "Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence/",
+        "source": "Hacker News",
+        "score": 405
+      },
+      {
+        "title": "Nyx, the Oldest Internet Service Provider",
+        "url": "https://nyx.net/",
+        "source": "Hacker News",
+        "score": 45
+      },
+      {
+        "title": "A miniature San Francisco with live buses, planes and boats",
+        "url": "https://smallsf.com/",
+        "source": "Hacker News",
+        "score": 50
+      },
+      {
         "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
         "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
         "source": "Hacker News",
-        "score": 870
+        "score": 1141
+      },
+      {
+        "title": "What Happened to Silicon Valley?",
+        "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+        "source": "Hacker News",
+        "score": 250
       },
       {
         "title": "Show HN: I built a game where you are an LLM's subagent",
         "url": "https://github.com/gulivan/worker755",
         "source": "Hacker News",
-        "score": 67
+        "score": 250
       },
       {
-        "title": "A better internet for everyone is possible. Today",
-        "url": "https://osw-alliance.net/en/",
+        "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+        "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
         "source": "Hacker News",
-        "score": 7
+        "score": 102
       },
       {
-        "title": "A real Linux kernel, compiled to WebAssembly",
-        "url": "https://github.com/pithings/unkernel",
+        "title": "Open Social Web Alliance",
+        "url": "https://osw-alliance.net/en/",
         "source": "Hacker News",
         "score": 196
       },
       {
-        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+        "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
         "source": "Hacker News",
-        "score": 1206
+        "score": 33
       },
       {
-        "title": "Lean verification of the Riemann Hypothesis",
-        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "title": "Advice for Young Researchers",
+        "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
         "source": "Hacker News",
-        "score": 1146
-      },
-      {
-        "title": "Self-hosted library branch over public web OPDS",
-        "url": "https://joinmayberry.com/",
-        "source": "Hacker News",
-        "score": 68
-      },
-      {
-        "title": "Sandwich Simulator",
-        "url": "https://stulle.app/",
-        "source": "Hacker News",
-        "score": 417
+        "score": 14
       },
       {
         "title": "A Better Vocabulary for Testing",
         "url": "https://alperenkeles.com/posts/vocab-for-testing/",
         "source": "Hacker News",
-        "score": 12
+        "score": 97
       },
       {
-        "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-        "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+        "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+        "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
         "source": "Hacker News",
-        "score": 12
+        "score": 57
       },
       {
-        "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
-        "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+        "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+        "url": "https://news.ycombinator.com/item?id=50555002",
         "source": "Hacker News",
-        "score": 45
-      },
-      {
-        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "url": "https://simonwillison.net/2026/Nov/21/muru/",
-        "source": "Hacker News",
-        "score": 36
-      },
-      {
-        "title": "Inkling-2-Mini in 5.4 GB Memory",
-        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-        "source": "Hacker News",
-        "score": 523
-      },
-      {
-        "title": "Detonating a pile of lead azide",
-        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-        "source": "Hacker News",
-        "score": 662
-      },
-      {
-        "title": "Data Processing Incidents on Inference Providers",
-        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-        "source": "Hacker News",
-        "score": 234
+        "score": 98
       }
     ],
     "ai": [
       {
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "source": "Hacker News AI",
+        "score": 42
+      },
+      {
         "title": "Show HN: I built a game where you are an LLM's subagent",
         "url": "https://github.com/gulivan/worker755",
         "source": "Hacker News AI",
-        "score": 67
+        "score": 250
       },
       {
-        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+        "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
         "source": "Hacker News AI",
-        "score": 1206
-      },
-      {
-        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "url": "https://simonwillison.net/2026/Nov/21/muru/",
-        "source": "Hacker News AI",
-        "score": 36
-      },
-      {
-        "title": "Celliad – a daily Excel game (French)",
-        "url": "https://celliad.com/",
-        "source": "Hacker News AI",
-        "score": 11
+        "score": 46
       },
       {
         "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
         "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
         "source": "Hacker News AI",
-        "score": 407
+        "score": 806
+      },
+      {
+        "title": "Harvard CS 2881R AI Safety",
+        "url": "https://boazbk.github.io/mltheoryseminar/",
+        "source": "Hacker News AI",
+        "score": 13
+      },
+      {
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "source": "Hacker News AI",
+        "score": 1321
+      },
+      {
+        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "url": "https://simonwillison.net/2026/Nov/21/muru/",
+        "source": "Hacker News AI",
+        "score": 68
       },
       {
         "title": "The Mythology of Conscious AI",
         "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
         "source": "Hacker News AI",
-        "score": 117
+        "score": 157
       },
       {
         "title": "Pandex – Official European Law for AI Agents, over MCP",
         "url": "https://www.pandex.io",
         "source": "Hacker News AI",
-        "score": 123
-      },
-      {
-        "title": "LLMs can read and write executables byte by byte from a hex dump",
-        "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-        "source": "Hacker News AI",
-        "score": 292
-      },
-      {
-        "title": "AI is becoming a disaster for the climate",
-        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-        "source": "Hacker News AI",
-        "score": 31
+        "score": 137
       },
       {
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "Hacker News AI",
-        "score": 2892
+        "score": 2899
       }
     ],
     "news": [
       {
-        "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
         "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+        "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+        "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -170,28 +190,8 @@
         "source": "BBC World"
       },
       {
-        "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-        "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-        "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
         "title": "Three killed and dozens missing after fire at Indonesian factory",
         "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
-        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
@@ -234,75 +234,75 @@
     ],
     "science": [
       {
+        "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "A mysterious gap hints at black holes born from stars that never exploded",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+        "source": "Science Daily"
+      },
+      {
         "title": "AI may not work like the human brain after all, scientists discover",
         "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
         "source": "Science Daily"
       },
       {
-        "title": "Time may be far stranger than we realize. Scientists have a way to test it",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+        "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
         "source": "Science Daily"
       },
       {
-        "title": "A giant star swallowed another star. James Webb reveals the aftermath",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "NASA's powerful Moon rocket engine roars through a dramatic 200-second test",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261120075551.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+        "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
         "source": "Science Daily"
       }
     ],
     "gaming": [
       {
-        "title": "All sprites in the Fortnite Chapter 7 mini season",
-        "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/",
+        "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6",
+        "url": "https://www.polygon.com/gta-6-vice-city-boring/",
         "source": "Polygon"
       },
       {
-        "title": "Where to find the Fast & Furious Mitsubishi Eclipse in GTA 6",
-        "url": "https://www.polygon.com/gta-6-mitsubishi-eclipse-fast-and-furious-brian-oconner-car/",
+        "title": "GTA 6's T-shirts Are True Works of Art",
+        "url": "https://www.polygon.com/gta-6-t-shirts/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6 Parody In Binding of Isaac Used AI Without Creator's Knowledge",
-        "url": "https://www.polygon.com/gta-6-parody-binding-of-isaac-ai-use/",
+        "title": "How to steal the BF Bandito in GTA 6",
+        "url": "https://www.polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6 Could Actually Lose at Least 3 Game Awards Categories",
-        "url": "https://www.polygon.com/gta-6-goty-game-awards-sweep/",
+        "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years ",
+        "url": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6 Players Keep Discovering Ridiculous New Ways To Steal Money",
-        "url": "https://www.polygon.com/gta-6-players-ridiculous-ways-to-steal-money/",
+        "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
+        "url": "https://www.polygon.com/gta-6-easter-eggs/",
         "source": "Polygon"
       },
       {
-        "title": "7 Most Unforgettable Battles in Fantasy Books, Ranked",
-        "url": "https://www.polygon.com/greatest-battles-in-fantasy-books-ranked/",
+        "title": "American Psycho Reboot Is 'Not Happening,' Director Says",
+        "url": "https://www.polygon.com/american-psycho-reboot-movie-update-luca-guadagnino/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
-        "url": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
+        "title": "Go on a trip with Dave and Beezlebub for a sick boss fight in GTA 6",
+        "url": "https://www.polygon.com/gta-6-hell-event-port-hellhorn-circles-of-hell-hellspawn-comshot/",
         "source": "Polygon"
       }
     ],
