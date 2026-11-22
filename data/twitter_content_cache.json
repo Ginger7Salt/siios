@@ -1,99 +1,99 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T00:59:38.985518",
-    "total_items": 60
+    "last_updated": "2026-11-22T07:56:10.091265",
+    "total_items": 64
   },
   "content": {
     "tech": [
       {
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "source": "Hacker News",
+        "score": 344
+      },
+      {
         "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
         "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
         "source": "Hacker News",
-        "score": 560
+        "score": 905
+      },
+      {
+        "title": "AI Supply Chain Security: What Canary Tokens Found",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "source": "Hacker News",
+        "score": 50
       },
       {
         "title": "Lean verification of the Riemann Hypothesis",
         "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
         "source": "Hacker News",
-        "score": 807
+        "score": 975
+      },
+      {
+        "title": "Show HN: The Riemann Proof Handbook",
+        "url": "https://github.com/tamnd/riemann-handbook",
+        "source": "Hacker News",
+        "score": 20
       },
       {
         "title": "Inkling-2-Mini in 5.4 GB Memory",
         "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
         "source": "Hacker News",
-        "score": 342
+        "score": 439
       },
       {
-        "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+        "title": "Data Processing Incidents on Inference Providers",
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
         "source": "Hacker News",
-        "score": 734
+        "score": 113
       },
       {
-        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-        "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+        "title": "Notes on the discrete Fourier transform (DFT)",
+        "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
         "source": "Hacker News",
-        "score": 45
+        "score": 10
+      },
+      {
+        "title": "Sandwich Simulator",
+        "url": "https://stulle.app/",
+        "source": "Hacker News",
+        "score": 173
+      },
+      {
+        "title": "The Engineering Manager's role is under attack (again)",
+        "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+        "source": "Hacker News",
+        "score": 15
       },
       {
         "title": "Detonating a pile of lead azide",
         "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
         "source": "Hacker News",
-        "score": 508
+        "score": 598
       },
       {
         "title": "Getting the mind to steer the body to steer you",
         "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
         "source": "Hacker News",
-        "score": 140
+        "score": 246
       },
       {
-        "title": "Hurried Announcement: Alessandro Masullo GRH",
-        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+        "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
         "source": "Hacker News",
-        "score": 2388
+        "score": 105
+      },
+      {
+        "title": "If tiny 'primordial' black holes exist",
+        "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+        "source": "Hacker News",
+        "score": 10
       },
       {
         "title": "My monitor was cutting my download speed by 75%",
         "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
         "source": "Hacker News",
-        "score": 473
-      },
-      {
-        "title": "Advice for the next 100 Rust GUIs",
-        "url": "https://linebender.org/blog/next-100-guis/",
-        "source": "Hacker News",
-        "score": 74
-      },
-      {
-        "title": "PostgreSQL Extensions in Go",
-        "url": "https://jespino.github.io/gopgext/",
-        "source": "Hacker News",
-        "score": 117
-      },
-      {
-        "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-        "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-        "source": "Hacker News",
-        "score": 22
-      },
-      {
-        "title": "Upload2Shell (CVE-2026-125396)",
-        "url": "https://pwn.ai/upload2shell",
-        "source": "Hacker News",
-        "score": 75
-      },
-      {
-        "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-        "url": "https://tasklet.ai/careers",
-        "source": "Hacker News",
-        "score": 1
-      },
-      {
-        "title": "Pandex – Official European Law for AI Agents, over MCP",
-        "url": "https://www.pandex.io",
-        "source": "Hacker News",
-        "score": 24
+        "score": 559
       }
     ],
     "ai": [
@@ -101,64 +101,93 @@
         "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
         "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
         "source": "Hacker News AI",
-        "score": 560
+        "score": 905
+      },
+      {
+        "title": "AI Supply Chain Security: What Canary Tokens Found",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "source": "Hacker News AI",
+        "score": 50
+      },
+      {
+        "title": "The Engineering Manager's role is under attack (again)",
+        "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+        "source": "Hacker News AI",
+        "score": 15
+      },
+      {
+        "title": "The Mythology of Conscious AI",
+        "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+        "source": "Hacker News AI",
+        "score": 46
       },
       {
         "title": "Pandex – Official European Law for AI Agents, over MCP",
         "url": "https://www.pandex.io",
         "source": "Hacker News AI",
-        "score": 24
-      },
-      {
-        "title": "Tropical Rainforests Species may be surprisingly young",
-        "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-        "source": "Hacker News AI",
-        "score": 39
+        "score": 74
       },
       {
         "title": "LLMs can read and write executables byte by byte from a hex dump",
         "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
         "source": "Hacker News AI",
-        "score": 186
+        "score": 230
       },
       {
-        "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
-        "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
+        "title": "Together.ai: Prompt Leakage for Requests",
+        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
         "source": "Hacker News AI",
-        "score": 17
+        "score": 21
+      },
+      {
+        "title": "Tropical Rainforests Species may be surprisingly young",
+        "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+        "source": "Hacker News AI",
+        "score": 49
       },
       {
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "Hacker News AI",
-        "score": 2858
+        "score": 2868
+      },
+      {
+        "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
+        "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+        "source": "Hacker News AI",
+        "score": 7
       },
       {
         "title": "NINLIVE: The Nine Inch Nails live archive",
         "url": "https://ninlive.com/",
         "source": "Hacker News AI",
-        "score": 354
-      },
-      {
-        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-        "source": "Hacker News AI",
-        "score": 495
+        "score": 370
       },
       {
         "title": "ClawDOS – An AI coding agent for DOS",
         "url": "http://ricapar.net/ClawDOS/",
         "source": "Hacker News AI",
-        "score": 158
+        "score": 162
+      },
+      {
+        "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "source": "Hacker News AI",
+        "score": 29
       },
       {
         "title": "Surprisingly Adorable Insect Portraits",
         "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
         "source": "Hacker News AI",
-        "score": 148
+        "score": 158
       }
     ],
     "news": [
+      {
+        "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
       {
         "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
         "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
@@ -167,11 +196,6 @@
       {
         "title": "Russia-bound ship attacked in Gulf of Finland",
         "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -222,13 +246,13 @@
         "source": "Creative Bloq"
       },
       {
-        "title": " Why has North Korea redesigned its flag? It's not about aesthetics... ",
-        "url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics",
+        "title": " How to pick the right website template for your creative business ",
+        "url": "https://www.creativebloq.com/features/how-to-pick-the-right-website-template-for-your-creative-business",
         "source": "Creative Bloq"
       },
       {
-        "title": " How to pick the right website template for your creative business ",
-        "url": "https://www.creativebloq.com/features/how-to-pick-the-right-website-template-for-your-creative-business",
+        "title": " Why has North Korea redesigned its flag? It's not about aesthetics... ",
+        "url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics",
         "source": "Creative Bloq"
       }
     ],
@@ -271,6 +295,26 @@
     ],
     "gaming": [
       {
+        "title": "46 Years Later, the Most Influential Thriller of All Time Is Officially Free on YouTube",
+        "url": "https://www.polygon.com/friday-the-13th-youtube-watch-free-november-2026/",
+        "source": "Polygon"
+      },
+      {
+        "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History",
+        "url": "https://www.polygon.com/best-captain-kirk-quote-star-trek-original-series/",
+        "source": "Polygon"
+      },
+      {
+        "title": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+        "url": "https://www.polygon.com/kite-eating-tree-peanuts/",
+        "source": "Polygon"
+      },
+      {
+        "title": "8 Must-Play JRPGs for People With Real-Life Schedules",
+        "url": "https://www.polygon.com/jrpgs-real-life-schedules/",
+        "source": "Polygon"
+      },
+      {
         "title": "Star Trek Reboot Officially Teased as Crimson Tide Meets Training Day Sci-Fi Thriller",
         "url": "https://www.polygon.com/star-trek-movie-reboot-crimson-tide-training-day/",
         "source": "Polygon"
@@ -283,26 +327,6 @@
       {
         "title": "Star Wars' New Jedi Order Era is Officially Moving Forward",
         "url": "https://www.polygon.com/star-wars-new-jedi-order-era-update/",
-        "source": "Polygon"
-      },
-      {
-        "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
-        "url": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
-        "source": "Polygon"
-      },
-      {
-        "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
-        "url": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
-        "source": "Polygon"
-      },
-      {
-        "title": "All Cheat Codes in GTA 6",
-        "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
-        "source": "Polygon"
-      },
-      {
-        "title": "Declasse Vamos code location in GTA 6",
-        "url": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
         "source": "Polygon"
       }
     ],
