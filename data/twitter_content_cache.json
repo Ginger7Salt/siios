@@ -1,99 +1,99 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T20:47:50.506560",
+    "last_updated": "2026-11-22T00:59:38.985518",
     "total_items": 60
   },
   "content": {
     "tech": [
       {
-        "title": "Inkling-2-Mini in 5.4 GB Memory",
-        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
         "source": "Hacker News",
-        "score": 223
+        "score": 560
       },
       {
         "title": "Lean verification of the Riemann Hypothesis",
         "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
         "source": "Hacker News",
-        "score": 622
+        "score": 807
       },
       {
-        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "title": "Inkling-2-Mini in 5.4 GB Memory",
+        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
         "source": "Hacker News",
-        "score": 78
-      },
-      {
-        "title": "Detonating a pile of lead azide",
-        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-        "source": "Hacker News",
-        "score": 422
+        "score": 342
       },
       {
         "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
         "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
         "source": "Hacker News",
-        "score": 596
+        "score": 734
       },
       {
-        "title": "PostgreSQL Extensions in Go",
-        "url": "https://jespino.github.io/gopgext/",
+        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+        "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
         "source": "Hacker News",
-        "score": 79
+        "score": 45
       },
       {
-        "title": "My monitor was cutting my download speed by 75%",
-        "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "title": "Detonating a pile of lead azide",
+        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
         "source": "Hacker News",
-        "score": 379
-      },
-      {
-        "title": "Hurried Announcement: Alessandro Masullo GRH",
-        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-        "source": "Hacker News",
-        "score": 2345
+        "score": 508
       },
       {
         "title": "Getting the mind to steer the body to steer you",
         "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
         "source": "Hacker News",
-        "score": 14
+        "score": 140
       },
       {
-        "title": "Tropical Rainforests Species may be surprisingly young",
-        "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
         "source": "Hacker News",
-        "score": 17
+        "score": 2388
       },
       {
-        "title": "Show HN: Zero C# – C# without a runtime or GC",
-        "url": "https://onurgumus.github.io/zero-csharp/index.html",
+        "title": "My monitor was cutting my download speed by 75%",
+        "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
         "source": "Hacker News",
-        "score": 88
+        "score": 473
       },
       {
-        "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-        "url": "https://math.mit.edu/~drew/grh/",
+        "title": "Advice for the next 100 Rust GUIs",
+        "url": "https://linebender.org/blog/next-100-guis/",
         "source": "Hacker News",
-        "score": 56
+        "score": 74
       },
       {
-        "title": "Inkling 2 Mini",
-        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "title": "PostgreSQL Extensions in Go",
+        "url": "https://jespino.github.io/gopgext/",
         "source": "Hacker News",
-        "score": 1309
+        "score": 117
       },
       {
-        "title": "I'm quite pleased by the tech architecture of my art website",
-        "url": "https://klauria.tech/klauria-art/",
+        "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+        "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
         "source": "Hacker News",
-        "score": 107
+        "score": 22
       },
       {
-        "title": "RCE in Gnupg",
-        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+        "title": "Upload2Shell (CVE-2026-125396)",
+        "url": "https://pwn.ai/upload2shell",
         "source": "Hacker News",
-        "score": 197
+        "score": 75
+      },
+      {
+        "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+        "url": "https://tasklet.ai/careers",
+        "source": "Hacker News",
+        "score": 1
+      },
+      {
+        "title": "Pandex – Official European Law for AI Agents, over MCP",
+        "url": "https://www.pandex.io",
+        "source": "Hacker News",
+        "score": 24
       }
     ],
     "ai": [
@@ -101,61 +101,61 @@
         "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
         "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
         "source": "Hacker News AI",
-        "score": 78
+        "score": 560
+      },
+      {
+        "title": "Pandex – Official European Law for AI Agents, over MCP",
+        "url": "https://www.pandex.io",
+        "source": "Hacker News AI",
+        "score": 24
       },
       {
         "title": "Tropical Rainforests Species may be surprisingly young",
         "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
         "source": "Hacker News AI",
-        "score": 17
+        "score": 39
       },
       {
         "title": "LLMs can read and write executables byte by byte from a hex dump",
         "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
         "source": "Hacker News AI",
-        "score": 141
+        "score": 186
+      },
+      {
+        "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+        "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
+        "source": "Hacker News AI",
+        "score": 17
       },
       {
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "Hacker News AI",
-        "score": 2843
-      },
-      {
-        "title": "ClawDOS – An AI coding agent for DOS",
-        "url": "http://ricapar.net/ClawDOS/",
-        "source": "Hacker News AI",
-        "score": 144
+        "score": 2858
       },
       {
         "title": "NINLIVE: The Nine Inch Nails live archive",
         "url": "https://ninlive.com/",
         "source": "Hacker News AI",
-        "score": 343
-      },
-      {
-        "title": "Surprisingly Adorable Insect Portraits",
-        "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-        "source": "Hacker News AI",
-        "score": 138
+        "score": 354
       },
       {
         "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
         "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
         "source": "Hacker News AI",
-        "score": 481
+        "score": 495
       },
       {
-        "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-        "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+        "title": "ClawDOS – An AI coding agent for DOS",
+        "url": "http://ricapar.net/ClawDOS/",
         "source": "Hacker News AI",
-        "score": 135
+        "score": 158
       },
       {
-        "title": "Fewer slides, more dragons",
-        "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+        "title": "Surprisingly Adorable Insect Portraits",
+        "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
         "source": "Hacker News AI",
-        "score": 67
+        "score": 148
       }
     ],
     "news": [
@@ -170,18 +170,8 @@
         "source": "BBC World"
       },
       {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
-        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -190,8 +180,18 @@
         "source": "BBC World"
       },
       {
-        "title": "French police officers sentenced for beating of music producer Michel Zecler",
-        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
@@ -222,13 +222,13 @@
         "source": "Creative Bloq"
       },
       {
-        "title": " How to pick the right website template for your creative business ",
-        "url": "https://www.creativebloq.com/features/how-to-pick-the-right-website-template-for-your-creative-business",
+        "title": " Why has North Korea redesigned its flag? It's not about aesthetics... ",
+        "url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics",
         "source": "Creative Bloq"
       },
       {
-        "title": " Why has North Korea redesigned its flag? It's not about aesthetics... ",
-        "url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics",
+        "title": " How to pick the right website template for your creative business ",
+        "url": "https://www.creativebloq.com/features/how-to-pick-the-right-website-template-for-your-creative-business",
         "source": "Creative Bloq"
       }
     ],
@@ -271,38 +271,38 @@
     ],
     "gaming": [
       {
-        "title": "Is immortality a curse for elves?",
-        "url": "https://www.polygon.com/video/is-immortality-a-curse-for-elves/",
+        "title": "Star Trek Reboot Officially Teased as Crimson Tide Meets Training Day Sci-Fi Thriller",
+        "url": "https://www.polygon.com/star-trek-movie-reboot-crimson-tide-training-day/",
         "source": "Polygon"
       },
       {
-        "title": "It’s Official, GTA 6’s Graphics Have Broken My Brain",
-        "url": "https://www.polygon.com/gta-6-graphics-realism/",
+        "title": "New Dungeons & Dragons Live-Action Series Officially Replaces Netflix's Forgotten Realms",
+        "url": "https://www.polygon.com/dungeons-and-dragons-ravenloft-tv-show-netflix/",
         "source": "Polygon"
       },
       {
-        "title": "Former Blade Director Reveals What Went Wrong With The Ill-Fated Marvel Movie",
-        "url": "https://www.polygon.com/blade-movie-director-comments-no-script/",
+        "title": "Star Wars' New Jedi Order Era is Officially Moving Forward",
+        "url": "https://www.polygon.com/star-wars-new-jedi-order-era-update/",
         "source": "Polygon"
       },
       {
-        "title": "How to use auto drive in GTA 6",
-        "url": "https://www.polygon.com/gta-6-auto-drive-how-to/",
+        "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
+        "url": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
         "source": "Polygon"
       },
       {
-        "title": "Apple TV’s New 8-Part Crime Thriller Is Already a No. 1 Streaming Hit",
-        "url": "https://www.polygon.com/anthony-mackie-12-12-12-apple-tv-streaming-success-november-2026/",
+        "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
+        "url": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
         "source": "Polygon"
       },
       {
-        "title": "Darkest Dungeon 2 DLC's New Mode Is Very Different From The Base Game",
-        "url": "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/",
+        "title": "All Cheat Codes in GTA 6",
+        "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
         "source": "Polygon"
       },
       {
-        "title": "The Galadriel love story we never saw...",
-        "url": "https://www.polygon.com/video/the-galadriel-love-story-we-never-saw/",
+        "title": "Declasse Vamos code location in GTA 6",
+        "url": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
         "source": "Polygon"
       }
     ],
