@@ -1,99 +1,99 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T22:19:34.364912",
-    "total_items": 60
+    "last_updated": "2026-11-23T03:33:15.714923",
+    "total_items": 59
   },
   "content": {
     "tech": [
       {
-        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "url": "https://spelunkr.tv",
         "source": "Hacker News",
-        "score": 213
+        "score": 162
       },
       {
         "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
         "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
         "source": "Hacker News",
-        "score": 42
+        "score": 298
       },
       {
-        "title": "Perplexity and Intelligence",
-        "url": "https://openai.com/index/perplexity-and-intelligence/",
+        "title": "Masullo on the Riemann Hypothesis",
+        "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
         "source": "Hacker News",
-        "score": 405
+        "score": 81
       },
       {
-        "title": "Nyx, the Oldest Internet Service Provider",
-        "url": "https://nyx.net/",
+        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
         "source": "Hacker News",
-        "score": 45
+        "score": 390
+      },
+      {
+        "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+        "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+        "source": "Hacker News",
+        "score": 136
+      },
+      {
+        "title": "GL.iNet Security Notice 2026-11-20",
+        "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+        "source": "Hacker News",
+        "score": 120
       },
       {
         "title": "A miniature San Francisco with live buses, planes and boats",
         "url": "https://smallsf.com/",
         "source": "Hacker News",
-        "score": 50
+        "score": 173
       },
       {
-        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+        "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
         "source": "Hacker News",
-        "score": 1141
+        "score": 77
       },
       {
-        "title": "What Happened to Silicon Valley?",
-        "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+        "title": "Nyx, the Oldest Internet Service Provider",
+        "url": "https://nyx.net/",
         "source": "Hacker News",
-        "score": 250
+        "score": 111
       },
       {
-        "title": "Show HN: I built a game where you are an LLM's subagent",
-        "url": "https://github.com/gulivan/worker755",
+        "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+        "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
         "source": "Hacker News",
-        "score": 250
+        "score": 62
       },
       {
-        "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-        "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+        "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+        "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
         "source": "Hacker News",
-        "score": 102
+        "score": 11
       },
       {
-        "title": "Open Social Web Alliance",
-        "url": "https://osw-alliance.net/en/",
+        "title": "Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence/",
         "source": "Hacker News",
-        "score": 196
+        "score": 513
       },
       {
-        "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-        "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+        "title": "Assume People Are Not Interested in Your Blog Post",
+        "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
         "source": "Hacker News",
-        "score": 33
+        "score": 83
       },
       {
-        "title": "Advice for Young Researchers",
-        "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+        "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+        "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
         "source": "Hacker News",
-        "score": 14
+        "score": 173
       },
       {
-        "title": "A Better Vocabulary for Testing",
-        "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+        "title": "What we learned operating auth for 1k APIs",
+        "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
         "source": "Hacker News",
-        "score": 97
-      },
-      {
-        "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-        "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-        "source": "Hacker News",
-        "score": 57
-      },
-      {
-        "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-        "url": "https://news.ycombinator.com/item?id=50555002",
-        "source": "Hacker News",
-        "score": 98
+        "score": 11
       }
     ],
     "ai": [
@@ -101,61 +101,55 @@
         "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
         "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
         "source": "Hacker News AI",
-        "score": 42
+        "score": 298
       },
       {
         "title": "Show HN: I built a game where you are an LLM's subagent",
         "url": "https://github.com/gulivan/worker755",
         "source": "Hacker News AI",
-        "score": 250
+        "score": 282
       },
       {
-        "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
-        "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+        "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+        "url": "https://0rwx.com/",
         "source": "Hacker News AI",
-        "score": 46
-      },
-      {
-        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-        "source": "Hacker News AI",
-        "score": 806
+        "score": 26
       },
       {
         "title": "Harvard CS 2881R AI Safety",
         "url": "https://boazbk.github.io/mltheoryseminar/",
         "source": "Hacker News AI",
-        "score": 13
+        "score": 53
+      },
+      {
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "source": "Hacker News AI",
+        "score": 910
       },
       {
         "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
         "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
         "source": "Hacker News AI",
-        "score": 1321
+        "score": 1344
+      },
+      {
+        "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+        "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+        "source": "Hacker News AI",
+        "score": 72
+      },
+      {
+        "title": "What Happened in Fall 2026: AI and P vs. NP",
+        "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+        "source": "Hacker News AI",
+        "score": 19
       },
       {
         "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
         "url": "https://simonwillison.net/2026/Nov/21/muru/",
         "source": "Hacker News AI",
-        "score": 68
-      },
-      {
-        "title": "The Mythology of Conscious AI",
-        "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-        "source": "Hacker News AI",
-        "score": 157
-      },
-      {
-        "title": "Pandex – Official European Law for AI Agents, over MCP",
-        "url": "https://www.pandex.io",
-        "source": "Hacker News AI",
-        "score": 137
-      },
-      {
-        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-        "url": "https://alpo.ge/remark.pdf",
-        "source": "Hacker News AI",
-        "score": 2899
+        "score": 73
       }
     ],
     "news": [
@@ -170,23 +164,23 @@
         "source": "BBC World"
       },
       {
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-        "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
         "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
         "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "South Korea education minister resigns over exam cheating scandal",
-        "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -271,38 +265,38 @@
     ],
     "gaming": [
       {
+        "title": "Robert Pattinson's Forgotten Dark Fantasy Thriller Proves He's a Perfect James Bond",
+        "url": "https://www.polygon.com/the-lighthouse-robert-pattinson-james-bond/",
+        "source": "Polygon"
+      },
+      {
+        "title": "34 Years Later, the Best 'Far Side' Quote Will Still Leave You Speechless",
+        "url": "https://www.polygon.com/best-far-side-quote/",
+        "source": "Polygon"
+      },
+      {
+        "title": "Star Wars Is Getting an Official IMAX 70mm Release for the First Time",
+        "url": "https://www.polygon.com/star-wars-50th-anniversary-imax-release-2027/",
+        "source": "Polygon"
+      },
+      {
+        "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
+        "url": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/",
+        "source": "Polygon"
+      },
+      {
+        "title": "Netflix’s (Very) R-Rated 45-Episode Sci-Fi Anthology Doesn’t Get the Attention It Deserves ",
+        "url": "https://www.polygon.com/r-rated-sci-fi-anthology-netflix-must-watch/",
+        "source": "Polygon"
+      },
+      {
+        "title": "25 Years Later, Dragon Quest’s Island-Hopping Epic Gets Better in Every Port",
+        "url": "https://www.polygon.com/dragon-quest-7-25th-anniversary/",
+        "source": "Polygon"
+      },
+      {
         "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6",
         "url": "https://www.polygon.com/gta-6-vice-city-boring/",
-        "source": "Polygon"
-      },
-      {
-        "title": "GTA 6's T-shirts Are True Works of Art",
-        "url": "https://www.polygon.com/gta-6-t-shirts/",
-        "source": "Polygon"
-      },
-      {
-        "title": "How to steal the BF Bandito in GTA 6",
-        "url": "https://www.polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto/",
-        "source": "Polygon"
-      },
-      {
-        "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years ",
-        "url": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
-        "source": "Polygon"
-      },
-      {
-        "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
-        "url": "https://www.polygon.com/gta-6-easter-eggs/",
-        "source": "Polygon"
-      },
-      {
-        "title": "American Psycho Reboot Is 'Not Happening,' Director Says",
-        "url": "https://www.polygon.com/american-psycho-reboot-movie-update-luca-guadagnino/",
-        "source": "Polygon"
-      },
-      {
-        "title": "Go on a trip with Dave and Beezlebub for a sick boss fight in GTA 6",
-        "url": "https://www.polygon.com/gta-6-hell-event-port-hellhorn-circles-of-hell-hellspawn-comshot/",
         "source": "Polygon"
       }
     ],
