@@ -1,178 +1,181 @@
 {
   "metadata": {
-    "last_updated": "2026-11-23T14:07:29.001191",
-    "total_items": 61
+    "last_updated": "2026-11-24T02:01:40.266178",
+    "total_items": 59
   },
   "content": {
     "tech": [
       {
-        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+        "source": "Hacker News",
+        "score": 2119
+      },
+      {
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "source": "Hacker News",
+        "score": 201
+      },
+      {
+        "title": "Ladybird is now in alpha",
+        "url": "https://ladybird.org/posts/alpha/",
+        "source": "Hacker News",
+        "score": 1454
+      },
+      {
+        "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+        "url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+        "source": "Hacker News",
+        "score": 23
+      },
+      {
+        "title": "GPUI is getting its own repository",
+        "url": "https://github.com/zed-industries/gpui",
+        "source": "Hacker News",
+        "score": 129
+      },
+      {
+        "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
         "url": "https://z.ai/blog/glm-5.4",
         "source": "Hacker News",
-        "score": 412
+        "score": 1060
       },
       {
-        "title": "The next circle of security hell",
-        "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+        "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+        "url": "https://www.bored.com/",
         "source": "Hacker News",
-        "score": 71
+        "score": 109
       },
       {
-        "title": "Jensen Huang Reinstated as Nvidia CEO",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+        "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+        "url": "https://arm.jonpalmisc.com/",
         "source": "Hacker News",
-        "score": 69
+        "score": 846
       },
       {
-        "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-        "url": "https://github.com/mikuta0407/win4wine",
+        "title": "Freeing the iPod Nano 5G",
+        "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
         "source": "Hacker News",
-        "score": 27
+        "score": 41
       },
       {
-        "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-        "url": "https://github.com/AFK-surf/xnulinux",
+        "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+        "url": "https://twitter.com/ylecun/status/2124550037912920090",
         "source": "Hacker News",
-        "score": 449
+        "score": 1170
       },
       {
-        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-        "url": "https://spelunkr.tv",
+        "title": "VP ≠ VNP over Every Field",
+        "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
         "source": "Hacker News",
-        "score": 675
+        "score": 239
       },
       {
-        "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
-        "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
+        "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+        "url": "https://arxiv.org/abs/2602.20031",
         "source": "Hacker News",
-        "score": 36
+        "score": 22
       },
       {
-        "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
-        "url": "https://github.com/os6/nospeaker",
+        "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+        "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
         "source": "Hacker News",
-        "score": 46
+        "score": 172
       },
       {
-        "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
-        "url": "https://github.com/elixir-hls/elixir-hls",
+        "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+        "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
         "source": "Hacker News",
-        "score": 70
+        "score": 124
       },
       {
-        "title": "Yes, 17M lines of Lean is a lot",
-        "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+        "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+        "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
         "source": "Hacker News",
-        "score": 167
-      },
-      {
-        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-        "source": "Hacker News",
-        "score": 608
-      },
-      {
-        "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
-        "url": "https://github.com/ruairidhflint/news-blocklist",
-        "source": "Hacker News",
-        "score": 11
-      },
-      {
-        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-        "source": "Hacker News",
-        "score": 559
-      },
-      {
-        "title": "Perplexity and Intelligence",
-        "url": "https://openai.com/index/perplexity-and-intelligence/",
-        "source": "Hacker News",
-        "score": 633
-      },
-      {
-        "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-        "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-        "source": "Hacker News",
-        "score": 295
+        "score": 299
       }
     ],
     "ai": [
       {
-        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
         "url": "https://z.ai/blog/glm-5.4",
         "source": "Hacker News AI",
-        "score": 412
+        "score": 1060
       },
       {
-        "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
-        "url": "https://github.com/ruairidhflint/news-blocklist",
+        "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+        "url": "https://arxiv.org/abs/2602.20031",
         "source": "Hacker News AI",
-        "score": 12
+        "score": 22
       },
       {
-        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "title": "Kagi Mail (public beta)",
+        "url": "https://blog.kagi.com/kagi-mail-public-beta",
         "source": "Hacker News AI",
-        "score": 608
+        "score": 359
+      },
+      {
+        "title": "Developing the perception to separate the form of a place from what it contains",
+        "url": "https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas",
+        "source": "Hacker News AI",
+        "score": 4
+      },
+      {
+        "title": "C++26 is done (again): ISO C++ meeting trip report",
+        "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+        "source": "Hacker News AI",
+        "score": 101
+      },
+      {
+        "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+        "url": "https://openai.com/index/introducing-shirudo/",
+        "source": "Hacker News AI",
+        "score": 25
+      },
+      {
+        "title": "How should an LLM see a computer?",
+        "url": "https://www.greptile.com/blog/trex-computer-use",
+        "source": "Hacker News AI",
+        "score": 45
+      },
+      {
+        "title": "Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)",
+        "url": "https://github.com/voygr-tech/placebench",
+        "source": "Hacker News AI",
+        "score": 9
       },
       {
         "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
         "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
         "source": "Hacker News AI",
-        "score": 50
-      },
-      {
-        "title": "Show HN: I built a game where you are an LLM's subagent",
-        "url": "https://github.com/gulivan/worker755",
-        "source": "Hacker News AI",
-        "score": 341
-      },
-      {
-        "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
-        "url": "https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/",
-        "source": "Hacker News AI",
-        "score": 25
-      },
-      {
-        "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-        "url": "https://0rwx.com/",
-        "source": "Hacker News AI",
-        "score": 63
-      },
-      {
-        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-        "source": "Hacker News AI",
-        "score": 1373
-      },
-      {
-        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-        "source": "Hacker News AI",
-        "score": 992
-      },
-      {
-        "title": "Harvard CS 2881R AI Safety",
-        "url": "https://boazbk.github.io/mltheoryseminar/",
-        "source": "Hacker News AI",
-        "score": 73
-      },
-      {
-        "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-        "source": "Hacker News AI",
-        "score": 46
+        "score": 97
       }
     ],
     "news": [
+      {
+        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
       {
         "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+        "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "What failure of COP31 reveals about a divided world",
+        "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -181,27 +184,32 @@
         "source": "BBC World"
       },
       {
-        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Flights and train services cancelled in Belgium due to strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+        "title": "India pledges $1.6bn to Nepal in reset of ties",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
     "art": [
+      {
+        "title": " With 25% off at Ohuhu, it's time to stock up on some of the best markers for art ",
+        "url": "https://www.creativebloq.com/deals/with-25-percent-off-at-ohuhu-its-time-to-stock-up-on-some-of-the-best-markers-for-art",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " Wacom's Black Friday sale takes up to $500 off the Cintiq Pro – the best drawing tablets are now affordable ",
+        "url": "https://www.creativebloq.com/deals/wacoms-black-friday-sale-takes-up-to-usd500-off-the-cintiq-pro-the-best-drawing-tablets-are-now-affordable",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " Every 3D artist should have an AI assistant, Maxon says as it launches new tools and agentic licences ",
+        "url": "https://www.creativebloq.com/news/every-3d-artist-should-have-an-ai-assistant-maxon-says-as-it-launches-new-tools-and-agentic-licences",
+        "source": "Creative Bloq"
+      },
+      {
+        "title": " I use AirPods everyday and they just dropped below $150 –  this is an absolute steal ",
+        "url": "https://www.creativebloq.com/deals/airpods-pro-3-just-dropped-below-usd150-i-use-these-everyday-and-this-is-an-absolute-steal",
+        "source": "Creative Bloq"
+      },
       {
         "title": " This hypnotising app turns your iPhone Duo into a record player ",
         "url": "https://www.creativebloq.com/news/this-hypnotising-app-turns-your-iphone-duo-into-a-record-player",
@@ -215,26 +223,6 @@
       {
         "title": " How GTA 6’s interface kept the classic Pricedown font but still managed to feel modern ",
         "url": "https://www.creativebloq.com/news/how-gta-6s-interface-kept-the-classic-pricedown-font-but-still-managed-to-feel-modern",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " LIVE: Nintendo Switch Black Friday deals include a Switch 2 discount ",
-        "url": "https://www.creativebloq.com/live/news/switch-black-friday-day-one",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " How to create a Studio Ghibli look in 3D art software ",
-        "url": "https://www.creativebloq.com/how-to/how-to-create-studio-ghibli-textures-in-your-3d-art",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " How Pets at Home's vibrant new family solves the biggest challenge of designing sub-brands ",
-        "url": "https://www.creativebloq.com/news/how-pets-at-homes-vibrant-new-family-solves-the-biggest-challenge-of-designing-sub-brands",
-        "source": "Creative Bloq"
-      },
-      {
-        "title": " GTA 6 is proof that human creativity is still the most impressive technology we have ",
-        "url": "https://www.creativebloq.com/news/gta-6-is-proof-that-human-creativity-is-still-the-most-impressive-technology-we-have",
         "source": "Creative Bloq"
       }
     ],
@@ -277,38 +265,38 @@
     ],
     "gaming": [
       {
-        "title": "Ridley Scott’s Near-Perfect Sci-Fi Miniseries Defies a Terrible Streaming Trend",
-        "url": "https://www.polygon.com/blade-runner-2099-review/",
+        "title": "25 Years Later, GTA 3 Is Still the Most Fascinating Open-World Experiment",
+        "url": "https://www.polygon.com/gta-3-retrospective-rockstar-games/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
-        "url": "https://www.polygon.com/gta-6-streamers-copyright-claim-frank-el-santo/",
+        "title": "GTA 6 Is So Unstoppable It's Even Made Nickelback Go Viral",
+        "url": "https://www.polygon.com/gta-6-nickelback-cover/",
         "source": "Polygon"
       },
       {
-        "title": "34 Years Later, Quentin Tarantino's Crime Thriller Masterpiece Is Officially Free to Stream",
-        "url": "https://www.polygon.com/reservoir-dogs-free-to-stream/",
+        "title": "The 6 Most Outrageous GTA 6 Myths, Debunked",
+        "url": "https://www.polygon.com/gta-6-myths-debunked/",
         "source": "Polygon"
       },
       {
-        "title": "32 Years Later, The Best 'Peanuts' Rerun Comic Strip Is Still an All-Time Classic",
-        "url": "https://www.polygon.com/rerun-peanuts/",
+        "title": "Legendary Critical Role Cast Members Officially Return With a Star-Studded New Guest Cast",
+        "url": "https://www.polygon.com/critical-role-aabria-iyengar-travis-willingham-returns-campaign-4/",
         "source": "Polygon"
       },
       {
-        "title": "Clair Obscur: Expedition 33 ‘A Painted Symphony’ Officially Returns in 2027",
-        "url": "https://www.polygon.com/clair-obscur-expedition-33-painted-symphony-2027-dates-locations/",
+        "title": "Where to find the Port Gellhorn serial killer in GTA 6",
+        "url": "https://www.polygon.com/gta-6-port-gellhorn-missing-tourists-where-to-find-serial-killer/",
         "source": "Polygon"
       },
       {
-        "title": "Robert Pattinson's Forgotten Dark Fantasy Thriller Proves He's a Perfect James Bond",
-        "url": "https://www.polygon.com/the-lighthouse-robert-pattinson-james-bond/",
+        "title": "Steam Officially Launches Its 2026 Game of the Year Awards Voting",
+        "url": "https://www.polygon.com/steam-awards-2026-game-of-the-year-nominations/",
         "source": "Polygon"
       },
       {
-        "title": "34 Years Later, the Best 'Far Side' Quote Will Still Leave You Speechless",
-        "url": "https://www.polygon.com/best-far-side-quote/",
+        "title": "Goodbye, Mandy: GTA 6 Players Are Already Obsessed With Someone Else",
+        "url": "https://www.polygon.com/gta-6-vicki-chapter-2-girls-trip/",
         "source": "Polygon"
       }
     ],
