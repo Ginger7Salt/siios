@@ -1,343 +1,347 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25T07:26:00.755851",
-    "total_items": 65
+    "last_updated": "2026-11-25T18:29:08.363520",
+    "total_items": 64
   },
   "content": {
     "tech": [
       {
-        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+        "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
         "source": "Hacker News",
-        "score": 487
+        "score": 299
+      },
+      {
+        "title": "Investigating degraded experiences across GitHub products",
+        "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+        "source": "Hacker News",
+        "score": 148
+      },
+      {
+        "title": "1Password Security Incident",
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "source": "Hacker News",
+        "score": 193
+      },
+      {
+        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+        "source": "Hacker News",
+        "score": 314
+      },
+      {
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "url": "https://github.com/xoxorwr/pw-loudness-eq",
+        "source": "Hacker News",
+        "score": 248
+      },
+      {
+        "title": "Predicting LoRA size for any dataset",
+        "url": "https://engram.com/blog/lora-size",
+        "source": "Hacker News",
+        "score": 52
+      },
+      {
+        "title": "I checked Clojure's core with Lean and found unreported bugs",
+        "url": "https://s.conao3.com/blog/2026/e4f733",
+        "source": "Hacker News",
+        "score": 64
+      },
+      {
+        "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+        "source": "Hacker News",
+        "score": 96
       },
       {
         "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
         "url": "https://buttons.joshwcomeau.com/",
         "source": "Hacker News",
-        "score": 226
+        "score": 739
       },
       {
-        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-        "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+        "title": "How Can Anything Beat n log n?",
+        "url": "https://iahmed.me/post/nlogn/",
         "source": "Hacker News",
-        "score": 165
+        "score": 5
       },
       {
-        "title": "I've been drinking wine in my kitchen",
-        "url": "https://scottaaronson.blog/?p=10362",
+        "title": "The matrix multiplication exponent is nine fourths [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
         "source": "Hacker News",
-        "score": 136
+        "score": 910
       },
       {
-        "title": "Ternary Bonsai 2.5 27B",
-        "url": "https://prismml.com/news/bonsai-2-5-27b",
+        "title": "Rumors swirling that labs might have cracked Factoring in P",
+        "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
         "source": "Hacker News",
-        "score": 422
+        "score": 246
       },
       {
-        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-        "url": "https://gpu-demo-gallery.pages.dev/",
+        "title": "In C++, = default and {} are not the same constructor",
+        "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
         "source": "Hacker News",
-        "score": 53
+        "score": 48
       },
       {
-        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-        "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+        "title": "Deriving Black-Scholes",
+        "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
         "source": "Hacker News",
-        "score": 195
+        "score": 9
       },
       {
-        "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-        "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+        "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+        "url": "https://arxiv.org/abs/2611.31286",
         "source": "Hacker News",
-        "score": 116
-      },
-      {
-        "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-        "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-        "source": "Hacker News",
-        "score": 72
-      },
-      {
-        "title": "Taking over US Treasury subdomains for $3 each",
-        "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-        "source": "Hacker News",
-        "score": 41
-      },
-      {
-        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-        "source": "Hacker News",
-        "score": 242
-      },
-      {
-        "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-        "url": "https://news.ycombinator.com/item?id=50634426",
-        "source": "Hacker News",
-        "score": 84
-      },
-      {
-        "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-        "url": "https://www.proofatlas.ai/open-problems/",
-        "source": "Hacker News",
-        "score": 38
-      },
-      {
-        "title": "The Shapes of Rivers",
-        "url": "https://dominicroye.github.io/shapes-of-rivers/",
-        "source": "Hacker News",
-        "score": 36
-      },
-      {
-        "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-        "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-        "source": "Hacker News",
-        "score": 52
+        "score": 39
       }
     ],
     "ai": [
       {
-        "title": "Ternary Bonsai 2.5 27B",
-        "url": "https://prismml.com/news/bonsai-2-5-27b",
+        "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
         "source": "Hacker News AI",
-        "score": 422
+        "score": 96
       },
       {
         "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
         "url": "https://gpu-demo-gallery.pages.dev/",
         "source": "Hacker News AI",
-        "score": 53
+        "score": 288
       },
       {
-        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-        "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+        "title": "The short age of dragon riders",
+        "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
         "source": "Hacker News AI",
-        "score": 195
+        "score": 234
       },
       {
-        "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-        "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+        "title": "Ternary Bonsai 2.5 27B",
+        "url": "https://prismml.com/news/bonsai-2-5-27b",
         "source": "Hacker News AI",
-        "score": 72
+        "score": 516
+      },
+      {
+        "title": "Getting old Java phones online again",
+        "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+        "source": "Hacker News AI",
+        "score": 144
       },
       {
         "title": "Taking over US Treasury subdomains for $3 each",
         "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
         "source": "Hacker News AI",
-        "score": 41
+        "score": 203
+      },
+      {
+        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+        "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+        "source": "Hacker News AI",
+        "score": 371
+      },
+      {
+        "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+        "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+        "source": "Hacker News AI",
+        "score": 206
       },
       {
         "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
         "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
         "source": "Hacker News AI",
-        "score": 242
-      },
-      {
-        "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-        "url": "https://www.proofatlas.ai/open-problems/",
-        "source": "Hacker News AI",
-        "score": 38
+        "score": 340
       },
       {
         "title": "When in Doubt, Flail About",
         "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
         "source": "Hacker News AI",
-        "score": 10
+        "score": 117
       },
       {
-        "title": "Active intrusion campaign against Check Point security management servers",
-        "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+        "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+        "url": "https://www.proofatlas.ai/open-problems/",
         "source": "Hacker News AI",
-        "score": 281
-      },
-      {
-        "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-        "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-        "source": "Hacker News AI",
-        "score": 141
-      },
-      {
-        "title": "Here in the World: Letters of Albert Camus, 1944–1959",
-        "url": "https://literaryreview.co.uk/here-in-the-world",
-        "source": "Hacker News AI",
-        "score": 46
+        "score": 97
       },
       {
         "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
         "url": "https://news.ycombinator.com/item?id=50630809",
         "source": "Hacker News AI",
-        "score": 244
+        "score": 423
       },
       {
-        "title": "A training engine for your local model, using your idle compute",
-        "url": "https://github.com/sous-labs/songe",
+        "title": "Active intrusion campaign against Check Point security management servers",
+        "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
         "source": "Hacker News AI",
-        "score": 211
+        "score": 297
       },
       {
-        "title": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
-        "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+        "title": "New York bans AI toys, including those using internet to talk to children",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
         "source": "Hacker News AI",
-        "score": 56
-      },
-      {
-        "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-        "url": "https://jobs.ashbyhq.com/weave-os",
-        "source": "Hacker News AI",
-        "score": 1
+        "score": 8
       }
     ],
     "news": [
       {
-        "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+        "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
         "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US attorney general dodges questions about Nvidia investigation",
-        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+        "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+        "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+        "title": "US stocks fall further as fears over AI intensify",
+        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-        "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "The rising cost of putting food on the table in India",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+        "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Thomas Markle charged in US for possessing child sex abuse images",
-        "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+        "title": "Protesters call on Israel to free Palestinian student held without charge",
+        "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ],
     "art": [
       {
-        "title": " “It’s such an obvious partnership” – how D&D and World of Warcraft finally joined forces, according to the lead designer ",
-        "url": "https://www.creativebloq.com/features/its-such-an-obvious-partnership-how-d-and-d-and-world-of-warcraft-finally-joined-forces",
+        "title": " From $125 to $1,000, the best ergonomic office chair Black Friday deals all tested by our reviewers ",
+        "url": "https://www.creativebloq.com/deals/from-usd125-to-usd1-000-the-best-ergonomic-office-chair-black-friday-prices-include-record-deals",
         "source": "Creative Bloq"
       },
       {
-        "title": " Robert Pattinson's James Bond will be different – should the brands be different too? ",
-        "url": "https://www.creativebloq.com/news/robert-pattinsons-james-bond-will-be-different-should-the-brands-be-different-too",
+        "title": " Crystal Palace tried to get away with posting AI and fans tore it to shreds ",
+        "url": "https://www.creativebloq.com/news/crystal-palace-tried-to-get-away-with-posting-ai-and-fans-tore-it-to-shreds",
         "source": "Creative Bloq"
       },
       {
-        "title": " These Black Friday laptops are perfect for graphic designers who work on the move ",
-        "url": "https://www.creativebloq.com/deals/black-friday-laptop-picks",
+        "title": " Alien Breed 35th Anniversary Collection review: A brilliant slice of gaming history ",
+        "url": "https://www.creativebloq.com/reviews/alien-breed-35th-anniversary-collection-review-a-brilliant-slice-of-gaming-history",
         "source": "Creative Bloq"
       },
       {
-        "title": " The best-sounding gaming headset is now down to $199 for Black Friday ",
-        "url": "https://www.creativebloq.com/deals/the-best-sounding-gaming-headset-is-down-for-black-friday",
+        "title": " Get $220 off the Liene PixCut S1 for Black Friday – it's the sticker printer I'd buy over Cricut ",
+        "url": "https://www.creativebloq.com/deals/get-usd220-off-the-liene-pixcut-s1-for-black-friday-its-the-sticker-printer-id-buy-over-cricut",
         "source": "Creative Bloq"
       },
       {
-        "title": " Cyberpunk 2's director just called GTA 6 \"a technological and creative miracle\" ",
-        "url": "https://www.creativebloq.com/news/cyberpunk-2s-director-just-called-gta-6-a-technological-and-creative-miracle",
+        "title": " Want an oak table that doubles as a creative workspace? Save up to £521 this Black Friday on these incredible deals ",
+        "url": "https://www.creativebloq.com/deals/want-an-oak-table-that-doubles-as-a-creative-workspace-save-up-to-gbp521-this-black-friday-on-these-incredible-deals",
         "source": "Creative Bloq"
       },
       {
-        "title": " After Nintendo Switch Black Friday, 28% off this top-rated controller should be your next buy ",
-        "url": "https://www.creativebloq.com/deals/after-nintendo-switch-black-friday-28-percent-off-this-top-rated-controller-should-be-your-next-buy",
+        "title": " This optical illusion has stumped scientists for decades, and things just got weirder ",
+        "url": "https://www.creativebloq.com/news/this-optical-illusion-has-stumped-scientists-for-decades-and-things-just-got-weirder",
         "source": "Creative Bloq"
       },
       {
-        "title": " With $384 off, this Black Friday coffee maker deal roasts all the others ",
-        "url": "https://www.creativebloq.com/deals/with-usd384-off-this-black-friday-coffee-maker-deal-roasts-all-the-others",
+        "title": " The best GTA 6 Easter eggs, from Mario hats to time travel ",
+        "url": "https://www.creativebloq.com/news/the-best-gta-6-easter-eggs-from-mario-hats-to-time-travel",
         "source": "Creative Bloq"
       }
     ],
     "science": [
+      {
+        "title": "Common sleep and anxiety drugs could be harming aging brains",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "A space telescope hunting for dark matter just discovered something unexpected",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
+        "source": "Science Daily"
+      },
+      {
+        "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+        "source": "Science Daily"
+      },
       {
         "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
         "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
         "source": "Science Daily"
       },
       {
-        "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "New gum disease treatment kills bad bacteria while sparing the good",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Earth's next ice age may have already begun. Global warming stopped it",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
-        "source": "Science Daily"
-      },
-      {
-        "title": "A simple metal is hiding a strange new form of magnetism",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
+        "title": "Peppermint oil significantly lowers blood pressure in just 20 days",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
         "source": "Science Daily"
       }
     ],
     "gaming": [
       {
-        "title": "7 Funniest MST3K Episodes to Watch For Your Personal Turkey Day Marathon",
-        "url": "https://www.polygon.com/mst3k-turkey-day-2026/",
+        "title": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
+        "url": "https://www.polygon.com/gta-6-leak-pc-port-settings-ps5-pro-ultra-medium-graphics-cards-price/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6's Most Heartbreaking Scene Is Exactly Why You Had To Do All Those Chores",
-        "url": "https://www.polygon.com/gta-6-chapter-1-tragic-ending-home-sweet-home/",
+        "title": "GTA 6 Fans Are Hissing Mad About Dolores the Snake",
+        "url": "https://www.polygon.com/gta-6-dolores-snake/",
         "source": "Polygon"
       },
       {
-        "title": "How to flip your car in GTA 6",
-        "url": "https://www.polygon.com/gta-6-flip-car-how-to/",
+        "title": "Diablo 4 Officially Gets a Big Live-Service Change",
+        "url": "https://www.polygon.com/diablo-4-season-16-changes-season-15-content/",
         "source": "Polygon"
       },
       {
-        "title": "Vice City portal Easter egg location in GTA 6",
-        "url": "https://www.polygon.com/gta-6-vice-city-portal-easter-egg-location-walkthrough-how-to-open/",
+        "title": "GTA 6-Like Partnership With Playstation Announced by Witcher Developer",
+        "url": "https://www.polygon.com/playstation-cd-projekt-red-marketing-partnership-deal-announced/",
         "source": "Polygon"
       },
       {
-        "title": "How to get your car out of the impound in GTA 6",
-        "url": "https://www.polygon.com/gta-6-impound-car-how-to-get-back/",
+        "title": "How to disable advanced trackers in GTA 6",
+        "url": "https://www.polygon.com/gta-6-advanced-trackers-how-to-disable-deactivate/",
         "source": "Polygon"
       },
       {
-        "title": "Best way to reveal the map in GTA 6",
-        "url": "https://www.polygon.com/gta-6-reveal-map-best-method-defog-tips/",
+        "title": "Hollow Knight: Silksong Dev Officially Breaks Silence on Sea Of Sorrow DLC With New Showcase",
+        "url": "https://www.polygon.com/hollow-knight-silksong-sea-of-sorrow-team-cherry-time/",
         "source": "Polygon"
       },
       {
-        "title": "GTA 6's Staggering Sales Still Might Never Catch GTA 5",
-        "url": "https://www.polygon.com/gta-6-sales-gta-5-record/",
+        "title": "GTA 6 Owes Everything to The Legend of Zelda: Ocarina of Time",
+        "url": "https://www.polygon.com/gta-6-zelda-ocarina-of-time-3d-games-legacy/",
         "source": "Polygon"
       }
     ],
     "steam": [],
     "github": [
+      {
+        "title": "Art of play in the age of AI",
+        "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+        "source": "GitHub Blog"
+      },
+      {
+        "title": "How to choose the next safe step in application modernization",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+        "source": "GitHub Blog"
+      },
       {
         "title": "These are the gifts developers will actually want",
         "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
@@ -361,16 +365,6 @@
       {
         "title": "GitHub availability report: October 2026",
         "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-        "source": "GitHub Blog"
-      },
-      {
-        "title": "Build once, run on any agent: A practical guide to agent skills",
-        "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-        "source": "GitHub Blog"
-      },
-      {
-        "title": "Git security vulnerabilities announced",
-        "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
         "source": "GitHub Blog"
       }
     ]
